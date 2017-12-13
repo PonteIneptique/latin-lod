@@ -11,365 +11,365 @@
    xmlns:wikidata="http://www.wikidata.org/wiki/"
    xmlns:wikidataProp="http://www.wikidata.org/wiki/Property:"
 >
-  <rdf:Description rdf:about="http://viaf.org/viaf/100227522">
-    <foaf:publications rdf:resource="http://viaf.org/viaf/181240107"/>
-    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q849288"/>
-    <foaf:publications rdf:resource="http://viaf.org/viaf/177408390"/>
-    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q49757"/>
-    <foaf:name xml:lang="fre">Horace</foaf:name>
-    <schema:performerIn rdf:resource="http://www.wikidata.org/wiki/Q160387"/>
-    <schema:deathDate>00/11/-0008</schema:deathDate>
-    <schema:performerIn rdf:resource="http://www.wikidata.org/wiki/Q335330"/>
-    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q189430"/>
-    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q20056508"/>
-    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/423025"/>
-    <schema:additionalName xml:lang="lat">Quintus Horatius Flaccus</schema:additionalName>
-    <schema:affiliation rdf:resource="http://www.wikidata.org/wiki/Q122166"/>
-    <foaf:publications rdf:resource="http://viaf.org/viaf/179441309"/>
-    <schema:alumniOf rdf:resource="http://viaf.org/viaf/76207567"/>
-    <schema:funder rdf:resource="http://viaf.org/viaf/36906810"/>
-    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/442847"/>
-    <foaf:birthday>12/-0065</foaf:birthday>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/100219060">
-    <schema:deathPlace rdf:resource="http://www.geonames.org/maps/google_41.892_12.511.html"/>
-    <schema:deathDate>-25</schema:deathDate>
-    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q36180"/>
-    <foaf:knows rdf:resource="http://viaf.org/viaf/178490045"/>
-    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/393438"/>
-    <schema:GenderType rdf:resource="http://schema.org/Male"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/207939228"/>
-    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q864380"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/181179180"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/286265178">
+    <dbpedia:Victory rdf:resource="http://viaf.org/viaf/18018702"/>
+    <foaf:name xml:lang="lat">Caius Iulius Caesar IV</foaf:name>
     <schema:birthDate>-100</schema:birthDate>
-    <foaf:knows rdf:resource="http://viaf.org/viaf/100218993"/>
-    <foaf:name xml:lang="fre">Cornelius Nepos</foaf:name>
-    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q201788"/>
-    <foaf:knows rdf:resource="http://viaf.org/viaf/78769600"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/189367035"/>
-    <wikidataProp:P53 rdf:resource="http://www.wikidata.org/wiki/Q221312"/>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q82955"/>
+    <wikidataProp:P39 rdf:resource="http://www.wikidata.org/wiki/Q236885"/>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q36180"/>
+    <wikidataProp:P22 rdf:resource="http://www.wikidata.org/wiki/Q314710"/>
+    <wikidataProp:P25 rdf:resource="http://www.wikidata.org/wiki/Q232725"/>
+    <wikidataProp:P410 rdf:resource="http://www.wikidata.org/wiki/Q83460"/>
+    <foaf:name xml:lang="fre">César</foaf:name>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/67762941"/>
+    <wikidataProp:P40 rdf:resource="http://www.wikidata.org/wiki/Q1405"/>
+    <schema:deathDate rdf:resource="http://pleiades.stoa.org/places/423025"/>
+    <wikidataProp:P53 rdf:resource="http://www.wikidata.org/wiki/Q192841"/>
+    <wikidataProp:P1196 rdf:resource="http://www.wikidata.org/wiki/Q149086"/>
+    <wikidataProp:P39 rdf:resource="http://www.wikidata.org/wiki/Q21597597"/>
+    <wikidataProp:P21 rdf:resource="http://www.wikidata.org/wiki/Q6581097"/>
+    <schema:deathDate>-44</schema:deathDate>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/423025"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/100226923">
     <foaf:name xml:lang="fre">Tacite</foaf:name>
+    <schema:author rdf:resource="http://viaf.org/viaf/174131919"/>
     <schema:relatedTo rdf:resource="http://viaf.org/viaf/12290061"/>
-    <foaf:name xml:lang="lat">Publius Cornelius Tacitus</foaf:name>
+    <schema:about rdf:resource="http://www.wikidata.org/wiki/Q48235"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/306068107"/>
+    <schema:birthDate>58</schema:birthDate>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q15686806"/>
+    <schema:follows rdf:resource="http://viaf.org/viaf/78769600"/>
+    <schema:follows rdf:resource="http://viaf.org/viaf/99942145"/>
+    <schema:follows rdf:resource="http://viaf.org/viaf/104162705"/>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q201788"/>
+    <schema:member rdf:resource="http://www.wikidata.org/wiki/Q303593"/>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/981537"/>
     <schema:deathDate>120</schema:deathDate>
     <schema:winner rdf:resource="http://www.wikidata.org/wiki/Q2282528"/>
     <schema:member rdf:resource="http://www.wikidata.org/wiki/Q122166"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/306068107"/>
-    <schema:about rdf:resource="http://www.wikidata.org/wiki/Q48235"/>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q15686806"/>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q201788"/>
-    <schema:follows rdf:resource="http://viaf.org/viaf/99942145"/>
-    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/981537"/>
-    <schema:birthDate>58</schema:birthDate>
-    <schema:follows rdf:resource="http://viaf.org/viaf/104162705"/>
-    <schema:author rdf:resource="http://viaf.org/viaf/174131919"/>
-    <schema:follows rdf:resource="http://viaf.org/viaf/78769600"/>
-    <schema:member rdf:resource="http://www.wikidata.org/wiki/Q303593"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/286265178">
-    <schema:deathDate>-44</schema:deathDate>
-    <wikidataProp:P410 rdf:resource="http://www.wikidata.org/wiki/Q83460"/>
-    <foaf:knows rdf:resource="http://viaf.org/viaf/67762941"/>
-    <foaf:name xml:lang="lat">Caius Iulius Caesar IV</foaf:name>
-    <wikidataProp:P40 rdf:resource="http://www.wikidata.org/wiki/Q1405"/>
-    <wikidataProp:P25 rdf:resource="http://www.wikidata.org/wiki/Q232725"/>
-    <schema:deathDate rdf:resource="http://pleiades.stoa.org/places/423025"/>
-    <dbpedia:Victory rdf:resource="http://viaf.org/viaf/18018702"/>
-    <wikidataProp:P22 rdf:resource="http://www.wikidata.org/wiki/Q314710"/>
-    <wikidataProp:P53 rdf:resource="http://www.wikidata.org/wiki/Q192841"/>
-    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/423025"/>
-    <schema:birthDate>-100</schema:birthDate>
-    <wikidataProp:P39 rdf:resource="http://www.wikidata.org/wiki/Q236885"/>
-    <wikidataProp:P21 rdf:resource="http://www.wikidata.org/wiki/Q6581097"/>
-    <foaf:name xml:lang="fre">César</foaf:name>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q36180"/>
-    <wikidataProp:P1196 rdf:resource="http://www.wikidata.org/wiki/Q149086"/>
-    <wikidataProp:P39 rdf:resource="http://www.wikidata.org/wiki/Q21597597"/>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q82955"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/305991465">
-    <dc:creator rdf:resource="http://viaf.org/viaf/8099277"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/10638270">
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q629712"/>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q11704729"/>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q15686806"/>
-    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q172907"/>
-    <schema:knows rdf:resource="http://viaf.org/viaf/34451872"/>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q1190123"/>
-    <schema:additionalName rdf:resource="http://viaf.org/viaf/10638270"/>
-    <schema:creator rdf:resource="http://www.wikidata.org/wiki/Q5369651"/>
-    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/981512"/>
-    <foaf:name xml:lang="fre">Pline Le Jeune</foaf:name>
-    <schema:deathDate>114</schema:deathDate>
-    <schema:knows rdf:resource="http://www.wikidata.org/wiki/Q842606"/>
-    <schema:familyName rdf:resource="http://viaf.org/viaf/316584858"/>
-    <schema:birthDate>61</schema:birthDate>
-    <schema:creator rdf:resource="http://www.wikidata.org/wiki/Q1784733"/>
-    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/383627"/>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q40348"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/96539514">
-    <schema:sponsor rdf:resource="http://viaf.org/viaf/100226923"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/183081221">
-    <dc:creator rdf:resource="http://viaf.org/viaf/8194433"/>
+    <foaf:name xml:lang="lat">Publius Cornelius Tacitus</foaf:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/8099277">
-    <dbpedia:birthDate>40</dbpedia:birthDate>
-    <dbpedia:deathPlace rdf:resource="http://pleiades.stoa.org/places/246247"/>
-    <foaf:knows rdf:resource="http://viaf.org/viaf/90637919"/>
-    <schema:nationality rdf:resource="http://www.wikidata.org/wiki/Q1747689"/>
-    <dbpedia:birthPlace rdf:resource="http://pleiades.stoa.org/places/1027"/>
     <wikidataProp:P1412 rdf:resource="http://www.wikidata.org/wiki/Q397"/>
-    <schema:funder rdf:resource="http://viaf.org/viaf/96284078"/>
-    <foaf:name xml:lang="fre">"Martial"</foaf:name>
-    <foaf:knows rdf:resource="http://viaf.org/viaf/10638270"/>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q49757"/>
-    <schema:funder rdf:resource="http://viaf.org/viaf/83217593"/>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q849288"/>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q36180"/>
     <foaf:name xml:lang="lat">"Marcus Valerius Martialis"</foaf:name>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q36180"/>
-    <dbpedia:memberFamily rdf:resource="http://www.wikidata.org/wiki/Q1429412"/>
-    <dbpedia:birthPlace rdf:resource="http://pleiades.stoa.org/places/981551"/>
     <dbpedia:deathDate>104</dbpedia:deathDate>
-    <schema:memberOf rdf:resource="http://www.wikidata.org/wiki/Q122166"/>
-    <dbpedia:birthPlace rdf:resource="http://pleiades.stoa.org/places/246247"/>
-    <dbpedia:eponym rdf:resource="http://www.wikidata.org/wiki/Q15139124"/>
     <dc:identifier rdf:resource="urn:cts:latinLit:phi1294"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/88342447">
-    <dc:identifier rdf:resource="http://www.wikidata.org/wiki/Q7198"/>
-    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/217016"/>
-    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/413019"/>
+    <dbpedia:birthPlace rdf:resource="http://pleiades.stoa.org/places/246247"/>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/10638270"/>
+    <dbpedia:birthDate>40</dbpedia:birthDate>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/90637919"/>
+    <schema:funder rdf:resource="http://viaf.org/viaf/83217593"/>
+    <dbpedia:birthPlace rdf:resource="http://pleiades.stoa.org/places/1027"/>
+    <dbpedia:eponym rdf:resource="http://www.wikidata.org/wiki/Q15139124"/>
     <schema:memberOf rdf:resource="http://www.wikidata.org/wiki/Q122166"/>
-    <schema:relatedTo rdf:resource="http://www.wikidata.org/wiki/Q1405"/>
-    <schema:spouse xml:lang="lat">Fabia</schema:spouse>
-    <schema:workLocation rdf:resource="http://www.geonames.org/maps/google_37.979_23.716.html"/>
-    <foaf:Group rdf:resource="http://www.wikidata.org/wiki/Q122166"/>
-    <schema:givenName xml:lang="lat">Naso</schema:givenName>
-    <foaf:name xml:lang="fre">Ovide</foaf:name>
-  </rdf:Description>
-  <rdf:Description rdf:about="viaf.org/viaf/78769600">
-    <foaf:name xml:lang="fre">Cicéron</foaf:name>
-    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/432700"/>
-    <foaf:birthday>3/01/-106</foaf:birthday>
-    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/432734"/>
-    <schema:deathDate>7/12/-43</schema:deathDate>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q4964182"/>
-    <schema:CreativeWork rdf:resource="http://www.wikidata.org/wiki/Q246289"/>
+    <schema:funder rdf:resource="http://viaf.org/viaf/96284078"/>
+    <dbpedia:memberFamily rdf:resource="http://www.wikidata.org/wiki/Q1429412"/>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q849288"/>
+    <dbpedia:birthPlace rdf:resource="http://pleiades.stoa.org/places/981551"/>
     <schema:nationality rdf:resource="http://www.wikidata.org/wiki/Q1747689"/>
-    <schema:knows rdf:resource="http://www.wikidata.org/wiki/Q75826"/>
-    <wikidataProp:P26 rdf:resource="http://www.wikidata.org/wiki/Q435936"/>
-    <schema:gender rdf:resource="http://www.wikidata.org/wiki/Q6581097"/>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q2912782"/>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q12859263"/>
-    <wikidata:Q289891 rdf:resource="http://www.wikidata.org/wiki/Q1048"/>
-    <foaf:publications rdf:resource="http://www.wikidata.org/wiki/Q1055008"/>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q189430"/>
-    <foaf:name xml:lang="lat">Marcus Tullius Cicero</foaf:name>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q172907"/>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q205757"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/298310776">
-    <schema:address rdf:resource="http://pleiades.stoa.org/places/383781"/>
-    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/423025"/>
-    <schema:birthDate xml:lang="fre">-84</schema:birthDate>
-    <schema:knows rdf:resource="http://viaf.org/viaf/100219060"/>
+    <dbpedia:deathPlace rdf:resource="http://pleiades.stoa.org/places/246247"/>
     <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q49757"/>
-    <schema:affiliation xml:lang="lat">Novi Poetae</schema:affiliation>
-    <schema:knows rdf:resource="http://www.wikidata.org/wiki/Q1235482"/>
-    <schema:knows xml:lang="lat">Juventius</schema:knows>
-    <schema:knows rdf:resource="http://viaf.org/viaf/88642691"/>
-    <foaf:name xml:lang="fre">Catulle</foaf:name>
-    <schema:knows rdf:resource="http://viaf.org/viaf/32386508"/>
-    <foaf:publications rdf:resource="http://viaf.org/processed/BNF%7C14483957"/>
-    <schema:relatedTo rdf:resource="http://www.wikidata.org/wiki/Q1429412"/>
-    <schema:knows rdf:resource="http://viaf.org/viaf/78769600"/>
-    <schema:deathDate>-54</schema:deathDate>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q36180"/>
-    <foaf:name xml:lang="lat">Catullus</foaf:name>
-    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/383816"/>
-    <schema:knows rdf:resource="http://viaf.org/viaf/286265178"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/8194433">
-    <foaf:knows rdf:resource="http://viaf.org/viaf/100227522"/>
-    <foaf:topic_interest rdf:resource="http://www.wikidata.org/wiki/Q395"/>
-    <schema:deathDate>-19</schema:deathDate>
-    <foaf:name xml:lang="fre">Virgile</foaf:name>
-    <schema:nationality rdf:resource="http://www.wikidata.org/wiki/Q2277"/>
-    <foaf:knows rdf:resource="http://viaf.org/viaf/11381108"/>
-    <foaf:topic_interest rdf:resource="http://www.wikidata.org/wiki/Q5891"/>
-    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q482"/>
-    <schema:birthDate>-70</schema:birthDate>
-    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/442509"/>
-    <foaf:name xml:lang="lat">Publius Vergilius Maro</foaf:name>
-    <foaf:knows rdf:resource="http://viaf.org/viaf/298310776"/>
-    <schema:TravelAction rdf:resource="http://pleiades.stoa.org/places/579885"/>
-    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/383570"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://pleiades.stoa.org/places/423025">
-    <dbpedia:politicalLeader rdf:resource="http://viaf.org/viaf/18013086"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/90637919">
-    <foaf:name xml:lang="fre">Sénèque</foaf:name>
-    <schema:birthDate>-4</schema:birthDate>
-    <schema:birthPlace rdf:resource="http://viaf.org/viaf/155934955"/>
-    <foaf:name xml:lang="lat">Lucius Annaeus Seneca</foaf:name>
-    <foaf:publications rdf:resource="http://www.wikidata.org/wiki/Q1180596"/>
-    <foaf:nickname xml:lang="fre">Sénèque le Philosophe</foaf:nickname>
-    <relationship:siblingOf rdf:resource="http://www.wikidata.org/wiki/Q452194"/>
-    <foaf:publications rdf:resource="http://www.wikidata.org/wiki/Q720535"/>
-    <wikidata:Q609016 rdf:resource="http://www.wikidata.org/wiki/Q1413"/>
-    <relationship:childOf rdf:resource="http://www.wikidata.org/wiki/Q273671"/>
-    <foaf:publications rdf:resource="http://www.wikidata.org/wiki/Q3332727"/>
-    <foaf:Organization rdf:resource="http://www.wikidata.org/wiki/Q787204"/>
-    <relationship:enemyOf rdf:resource="http://www.wikidata.org/wiki/Q229871"/>
-    <schema:deathDate>12/04/65</schema:deathDate>
-    <relationship:acquaintanceOf rdf:resource="http://www.wikidata.org/wiki/Q453916"/>
+    <foaf:name xml:lang="fre">"Martial"</foaf:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/18013086">
-    <schema:children rdf:resource="http://viaf.org/viaf/316751293"/>
-    <schema:parent rdf:resource="http://www.wikidata.org/wiki/Q1048"/>
-    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/432981"/>
-    <schema:children rdf:resource="http://viaf.org/viaf/89600176"/>
-    <schema:colleague rdf:resource="http://viaf.org/viaf/11492581"/>
-    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q83204"/>
-    <foaf:name xml:lang="lat">Caius Octavius</foaf:name>
+    <dbpedia:residence rdf:resource="http://pleiades.stoa.org/places/971691208"/>
     <schema:sponsor rdf:resource="http://viaf.org/viaf/8194433"/>
-    <schema:birthDate>23/09/-63</schema:birthDate>
+    <schema:colleague rdf:resource="http://viaf.org/viaf/11492581"/>
+    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q725434"/>
+    <dbpedia:placeOfBurial rdf:resource="http://pleiades.stoa.org/places/422863"/>
+    <schema:parent rdf:resource="http://www.wikidata.org/wiki/Q1048"/>
+    <schema:colleague rdf:resource="http://viaf.org/viaf/4911148947867154950004"/>
+    <schema:nationality rdf:resource="http://pleiades.stoa.org/places/837078212"/>
     <schema:jobTitle xml:lang="lat">Princeps civitatis</schema:jobTitle>
+    <dc:identifier rdf:resource="urn:cts:latinLit:phi1221"/>
+    <schema:children rdf:resource="http://viaf.org/viaf/58081943"/>
+    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q83204"/>
     <schema:deathDate>08/19/14</schema:deathDate>
     <schema:sponsor rdf:resource="http://viaf.org/viaf/100227522"/>
-    <schema:nationality rdf:resource="http://pleiades.stoa.org/places/837078212"/>
-    <schema:colleague rdf:resource="http://viaf.org/viaf/4911148947867154950004"/>
-    <dbpedia:placeOfBurial rdf:resource="http://pleiades.stoa.org/places/422863"/>
-    <schema:children rdf:resource="http://viaf.org/viaf/58081943"/>
     <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/423025"/>
-    <dbpedia:residence rdf:resource="http://pleiades.stoa.org/places/971691208"/>
-    <dc:identifier rdf:resource="urn:cts:latinLit:phi1221"/>
+    <foaf:name xml:lang="lat">Caius Octavius</foaf:name>
+    <schema:birthDate>23/09/-63</schema:birthDate>
+    <schema:children rdf:resource="http://viaf.org/viaf/89600176"/>
+    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/432981"/>
     <schema:children rdf:resource="http://viaf.org/viaf/56580498"/>
-    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q725434"/>
+    <schema:children rdf:resource="http://viaf.org/viaf/316751293"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://www.wikidata.org/wiki/Q2293346">
-    <schema:description rdf:resource="http://viaf.org/viaf/100226923"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/90637919">
+    <foaf:name xml:lang="lat">Lucius Annaeus Seneca</foaf:name>
+    <wikidata:Q609016 rdf:resource="http://www.wikidata.org/wiki/Q1413"/>
+    <schema:birthPlace rdf:resource="http://viaf.org/viaf/155934955"/>
+    <relationship:childOf rdf:resource="http://www.wikidata.org/wiki/Q273671"/>
+    <foaf:name xml:lang="fre">Sénèque</foaf:name>
+    <relationship:siblingOf rdf:resource="http://www.wikidata.org/wiki/Q452194"/>
+    <schema:birthDate>-4</schema:birthDate>
+    <schema:deathDate>12/04/65</schema:deathDate>
+    <relationship:enemyOf rdf:resource="http://www.wikidata.org/wiki/Q229871"/>
+    <foaf:nickname xml:lang="fre">Sénèque le Philosophe</foaf:nickname>
+    <relationship:acquaintanceOf rdf:resource="http://www.wikidata.org/wiki/Q453916"/>
+    <foaf:publications rdf:resource="http://www.wikidata.org/wiki/Q1180596"/>
+    <foaf:publications rdf:resource="http://www.wikidata.org/wiki/Q3332727"/>
+    <foaf:Organization rdf:resource="http://www.wikidata.org/wiki/Q787204"/>
+    <foaf:publications rdf:resource="http://www.wikidata.org/wiki/Q720535"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/104162705">
+    <schema:deathDate>-35</schema:deathDate>
+    <schema:workLocation rdf:resource="http://pleiades.stoa.org/places/423025"/>
+    <foaf:name xml:lang="lat">Gaius Sallustius Crispus</foaf:name>
+    <foaf:name xml:lang="fre">Salluste</foaf:name>
+    <foaf:birthday xml:lang="fre">-86</foaf:birthday>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/413013"/>
+    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/423025"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100219060">
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/393438"/>
+    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q864380"/>
+    <schema:birthDate>-100</schema:birthDate>
+    <schema:author rdf:resource="http://viaf.org/viaf/181179180"/>
+    <schema:deathDate>-25</schema:deathDate>
+    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q36180"/>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/178490045"/>
+    <schema:deathPlace rdf:resource="http://www.geonames.org/maps/google_41.892_12.511.html"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/189367035"/>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/100218993"/>
+    <schema:author rdf:resource="http://viaf.org/viaf/207939228"/>
+    <wikidataProp:P53 rdf:resource="http://www.wikidata.org/wiki/Q221312"/>
+    <foaf:name xml:lang="fre">Cornelius Nepos</foaf:name>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/78769600"/>
+    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q201788"/>
+    <schema:GenderType rdf:resource="http://schema.org/Male"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/309541915">
     <schema:Book rdf:resource="http://viaf.org/viaf/88342447"/>
+    <schema:Book rdf:resource="http://viaf.org/viaf/301102439"/>
+    <schema:Book rdf:resource="http://viaf.org/viaf/176453208"/>
     <schema:Book rdf:resource="http://viaf.org/viaf/174402707/"/>
     <schema:Book rdf:resource="http://viaf.org/viaf/990145856882922920263"/>
-    <schema:Book rdf:resource="http://viaf.org/viaf/301102439"/>
     <schema:Book rdf:resource="http://viaf.org/viaf/302466394"/>
-    <schema:Book rdf:resource="http://viaf.org/viaf/176453208"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/66462281">
-    <foaf:publications rdf:resource="http://viaf.org/viaf/186138325/"/>
-    <foaf:publications rdf:resource="http://viaf.org/viaf/181526271/"/>
-    <foaf:publications rdf:resource="http://viaf.org/viaf/176788865/"/>
-    <foaf:publications rdf:resource="http://viaf.org/viaf/273381689/"/>
-    <foaf:publications rdf:resource="http://viaf.org/viaf/275023762/"/>
-    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q500251"/>
-    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/413306"/>
-    <foaf:name xml:lang="fre">Plaute</foaf:name>
-    <foaf:publications rdf:resource="http://www.wikidata.org/wiki/Q2523113"/>
-    <schema:deathDate>-184</schema:deathDate>
-    <schema:birthDate>-254</schema:birthDate>
-    <schema:deathDate rdf:resource="http://pleiades.stoa.org/places/423025"/>
-    <foaf:publications rdf:resource="http://viaf.org/viaf/177333620/"/>
-    <foaf:publications rdf:resource="http://viaf.org/viaf/174822889/"/>
-    <foaf:publications rdf:resource="http://www.wikidata.org/wiki/Q798026"/>
-    <foaf:name xml:lang="lat">Titus Maccius Plautus</foaf:name>
-    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q154549"/>
-    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q482980"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/8194433">
+    <schema:nationality rdf:resource="http://www.wikidata.org/wiki/Q2277"/>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/383570"/>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/298310776"/>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/100227522"/>
+    <foaf:name xml:lang="lat">Publius Vergilius Maro</foaf:name>
+    <schema:birthDate>-70</schema:birthDate>
+    <foaf:name xml:lang="fre">Virgile</foaf:name>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/11381108"/>
+    <schema:TravelAction rdf:resource="http://pleiades.stoa.org/places/579885"/>
+    <foaf:topic_interest rdf:resource="http://www.wikidata.org/wiki/Q395"/>
+    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q482"/>
+    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/442509"/>
+    <foaf:topic_interest rdf:resource="http://www.wikidata.org/wiki/Q5891"/>
+    <schema:deathDate>-19</schema:deathDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/298310776">
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q49757"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/286265178"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/88642691"/>
+    <schema:affiliation xml:lang="lat">Novi Poetae</schema:affiliation>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/383816"/>
+    <schema:deathDate>-54</schema:deathDate>
+    <foaf:publications rdf:resource="http://viaf.org/processed/BNF%7C14483957"/>
+    <schema:knows xml:lang="lat">Juventius</schema:knows>
+    <schema:knows rdf:resource="http://viaf.org/viaf/100219060"/>
+    <schema:relatedTo rdf:resource="http://www.wikidata.org/wiki/Q1429412"/>
+    <schema:address rdf:resource="http://pleiades.stoa.org/places/383781"/>
+    <foaf:name xml:lang="fre">Catulle</foaf:name>
+    <foaf:name xml:lang="lat">Catullus</foaf:name>
+    <schema:knows rdf:resource="http://viaf.org/viaf/78769600"/>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q36180"/>
+    <schema:knows rdf:resource="http://www.wikidata.org/wiki/Q1235482"/>
+    <schema:knows rdf:resource="http://viaf.org/viaf/32386508"/>
+    <schema:birthDate xml:lang="fre">-84</schema:birthDate>
+    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/423025"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/66462384">
     <schema:author rdf:resource="http://www.wikidata.org/wiki/Q1233645"/>
-    <schema:deathDate>-159</schema:deathDate>
-    <foaf:maker rdf:resource="http://www.wikidata.org/wiki/Q40831"/>
-    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/314921"/>
-    <foaf:name xml:lang="fre">Térence</foaf:name>
-    <schema:birthDate>-190</schema:birthDate>
-    <schema:author rdf:resource="http://www.wikidata.org/wiki/Q355342"/>
-    <schema:author rdf:resource="http://www.wikidata.org/wiki/Q678909"/>
-    <schema:author rdf:resource="http://www.wikidata.org/wiki/Q1217045"/>
-    <foaf:name xml:lang="lat">Publius Terentius Afer</foaf:name>
+    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/423025"/>
     <foaf:knows rdf:resource="http://www.wikidata.org/wiki/Q2307"/>
     <schema:author rdf:resource="http://www.wikidata.org/wiki/Q545258"/>
+    <schema:birthDate>-190</schema:birthDate>
+    <schema:author rdf:resource="http://www.wikidata.org/wiki/Q355342"/>
+    <schema:author rdf:resource="http://www.wikidata.org/wiki/Q1217045"/>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/314921"/>
+    <schema:author rdf:resource="http://www.wikidata.org/wiki/Q678909"/>
     <schema:author rdf:resource="http://www.wikidata.org/wiki/Q1233598"/>
-    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/423025"/>
+    <foaf:maker rdf:resource="http://www.wikidata.org/wiki/Q40831"/>
+    <foaf:name xml:lang="fre">Térence</foaf:name>
+    <foaf:name xml:lang="lat">Publius Terentius Afer</foaf:name>
+    <schema:deathDate>-159</schema:deathDate>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/104162705">
-    <foaf:name xml:lang="fre">Salluste</foaf:name>
-    <foaf:birthday xml:lang="fre">-86</foaf:birthday>
-    <schema:workLocation rdf:resource="http://pleiades.stoa.org/places/423025"/>
-    <schema:deathDate>-35</schema:deathDate>
-    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/423025"/>
-    <foaf:name xml:lang="lat">Gaius Sallustius Crispus</foaf:name>
-    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/413013"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/10638270">
+    <schema:creator rdf:resource="http://www.wikidata.org/wiki/Q1784733"/>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q15686806"/>
+    <schema:knows rdf:resource="http://www.wikidata.org/wiki/Q842606"/>
+    <schema:additionalName rdf:resource="http://viaf.org/viaf/10638270"/>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q40348"/>
+    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q172907"/>
+    <schema:deathDate>114</schema:deathDate>
+    <schema:knows rdf:resource="http://viaf.org/viaf/34451872"/>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q629712"/>
+    <foaf:name xml:lang="fre">Pline Le Jeune</foaf:name>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q1190123"/>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/383627"/>
+    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/981512"/>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q11704729"/>
+    <schema:familyName rdf:resource="http://viaf.org/viaf/316584858"/>
+    <schema:birthDate>61</schema:birthDate>
+    <schema:creator rdf:resource="http://www.wikidata.org/wiki/Q5369651"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/106388020">
-    <foaf:name xml:lang="fre">Lucrèce</foaf:name>
-    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/423025"/>
-    <schema:deathDate>-54</schema:deathDate>
-    <foaf:birthday>-94</foaf:birthday>
-    <foaf:name xml:lang="lat">Titus Lucretius Carus</foaf:name>
+  <rdf:Description rdf:about="http://viaf.org/viaf/66462281">
+    <schema:deathDate rdf:resource="http://pleiades.stoa.org/places/423025"/>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/413306"/>
+    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q154549"/>
+    <foaf:publications rdf:resource="http://viaf.org/viaf/174822889/"/>
+    <foaf:name xml:lang="fre">Plaute</foaf:name>
+    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q482980"/>
+    <foaf:publications rdf:resource="http://viaf.org/viaf/275023762/"/>
+    <foaf:publications rdf:resource="http://viaf.org/viaf/273381689/"/>
+    <schema:birthDate>-254</schema:birthDate>
+    <foaf:publications rdf:resource="http://www.wikidata.org/wiki/Q2523113"/>
+    <foaf:publications rdf:resource="http://viaf.org/viaf/176788865/"/>
+    <foaf:name xml:lang="lat">Titus Maccius Plautus</foaf:name>
+    <foaf:publications rdf:resource="http://viaf.org/viaf/186138325/"/>
+    <foaf:publications rdf:resource="http://www.wikidata.org/wiki/Q798026"/>
+    <foaf:publications rdf:resource="http://viaf.org/viaf/177333620/"/>
+    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q500251"/>
+    <foaf:publications rdf:resource="http://viaf.org/viaf/181526271/"/>
+    <schema:deathDate>-184</schema:deathDate>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/83985148">
-    <schema:knows rdf:resource="http://www.wikidata.org/wiki/Q2098"/>
-    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/716588"/>
-    <schema:author rdf:resource="http://www.wikidata.org/wiki/Q2707099"/>
-    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/432695"/>
-    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q49757"/>
-    <foaf:name xml:lang="fre">Juvénal</foaf:name>
-    <schema:follows rdf:resource="http://www.wikidata.org/wiki/Q193769"/>
-    <schema:parent rdf:resource="http://www.wikidata.org/wiki/Q841571"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.wikidata.org/wiki/Q106199">
-    <dc:creator rdf:resource="http://viaf.org/viaf/286265178"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.wikidata.org/wiki/Q544948">
-    <dc:creator rdf:resource="http://viaf.org/viaf/286265178"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/176199512">
-    <dct:creator rdf:resource="http://viaf.org/viaf/106388020"/>
-    <dct:title xml:lang="lat">De rerum natura</dct:title>
-    <schema:citation rdf:resource="http://viaf.org/viaf/177736136"/>
-    <dct:title xml:lang="fre">De la nature des choses</dct:title>
+  <rdf:Description rdf:about="viaf.org/viaf/78769600">
+    <foaf:name xml:lang="lat">Marcus Tullius Cicero</foaf:name>
+    <wikidataProp:P26 rdf:resource="http://www.wikidata.org/wiki/Q435936"/>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q4964182"/>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q2912782"/>
+    <schema:knows rdf:resource="http://www.wikidata.org/wiki/Q75826"/>
+    <wikidata:Q289891 rdf:resource="http://www.wikidata.org/wiki/Q1048"/>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/432700"/>
+    <schema:deathDate>7/12/-43</schema:deathDate>
+    <schema:CreativeWork rdf:resource="http://www.wikidata.org/wiki/Q246289"/>
+    <schema:nationality rdf:resource="http://www.wikidata.org/wiki/Q1747689"/>
+    <foaf:name xml:lang="fre">Cicéron</foaf:name>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q172907"/>
+    <foaf:publications rdf:resource="http://www.wikidata.org/wiki/Q1055008"/>
+    <schema:gender rdf:resource="http://www.wikidata.org/wiki/Q6581097"/>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q12859263"/>
+    <foaf:birthday>3/01/-106</foaf:birthday>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q189430"/>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q205757"/>
+    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/432734"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/180555667">
     <dc:identifier rdf:resource="http://viaf.org/viaf/8099277"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/294047250">
-    <schema:about rdf:resource="http://viaf.org/viaf/12290061"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/100227522">
+    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q189430"/>
+    <schema:performerIn rdf:resource="http://www.wikidata.org/wiki/Q160387"/>
+    <schema:alumniOf rdf:resource="http://viaf.org/viaf/76207567"/>
+    <schema:funder rdf:resource="http://viaf.org/viaf/36906810"/>
+    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q849288"/>
+    <schema:deathDate>00/11/-0008</schema:deathDate>
+    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q20056508"/>
+    <schema:affiliation rdf:resource="http://www.wikidata.org/wiki/Q122166"/>
+    <foaf:name xml:lang="fre">Horace</foaf:name>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/442847"/>
+    <schema:performerIn rdf:resource="http://www.wikidata.org/wiki/Q335330"/>
+    <foaf:birthday>12/-0065</foaf:birthday>
+    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/423025"/>
+    <schema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q49757"/>
+    <foaf:publications rdf:resource="http://viaf.org/viaf/179441309"/>
+    <schema:additionalName xml:lang="lat">Quintus Horatius Flaccus</schema:additionalName>
+    <foaf:publications rdf:resource="http://viaf.org/viaf/177408390"/>
+    <foaf:publications rdf:resource="http://viaf.org/viaf/181240107"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/36906810">
     <schema:sponsor rdf:resource="http://viaf.org/viaf/8194433"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://www.wikidata.org/wiki/Q229871">
-    <relationship:spouseOf rdf:resource="http://www.wikidata.org/wiki/Q1411"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/88342447">
+    <schema:relatedTo rdf:resource="http://www.wikidata.org/wiki/Q1405"/>
+    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/217016"/>
+    <foaf:name xml:lang="fre">Ovide</foaf:name>
+    <schema:spouse xml:lang="lat">Fabia</schema:spouse>
+    <dc:identifier rdf:resource="http://www.wikidata.org/wiki/Q7198"/>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/413019"/>
+    <schema:memberOf rdf:resource="http://www.wikidata.org/wiki/Q122166"/>
+    <schema:givenName xml:lang="lat">Naso</schema:givenName>
+    <schema:workLocation rdf:resource="http://www.geonames.org/maps/google_37.979_23.716.html"/>
+    <foaf:Group rdf:resource="http://www.wikidata.org/wiki/Q122166"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/40305158">
-    <schema:spouse rdf:resource="http://viaf.org/viaf/10638270"/>
+  <rdf:Description rdf:about="http://www.wikidata.org/wiki/Q106199">
+    <dc:creator rdf:resource="http://viaf.org/viaf/286265178"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://www.wikidata.org/wiki/Q48235">
-    <foaf:topic_interest rdf:resource="http://viaf.org/viaf/90637919"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/176199512">
+    <dct:title xml:lang="fre">De la nature des choses</dct:title>
+    <dct:creator rdf:resource="http://viaf.org/viaf/106388020"/>
+    <dct:title xml:lang="lat">De rerum natura</dct:title>
+    <schema:citation rdf:resource="http://viaf.org/viaf/177736136"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://viaf.org/viaf/313680866">
-    <schema:editor rdf:resource="http://viaf.org/viaf/50018621"/>
+  <rdf:Description rdf:about="http://viaf.org/viaf/305991465">
+    <dc:creator rdf:resource="http://viaf.org/viaf/8099277"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pleiades.stoa.org/places/423025">
+    <dbpedia:politicalLeader rdf:resource="http://viaf.org/viaf/18013086"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/183081221">
     <dc:creator rdf:resource="http://viaf.org/viaf/8194433"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/83985148">
+    <schema:deathPlace rdf:resource="http://pleiades.stoa.org/places/716588"/>
+    <schema:knows rdf:resource="http://www.wikidata.org/wiki/Q2098"/>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/432695"/>
+    <schema:follows rdf:resource="http://www.wikidata.org/wiki/Q193769"/>
+    <foaf:name xml:lang="fre">Juvénal</foaf:name>
+    <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q49757"/>
+    <schema:parent rdf:resource="http://www.wikidata.org/wiki/Q841571"/>
+    <schema:author rdf:resource="http://www.wikidata.org/wiki/Q2707099"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/106388020">
+    <foaf:birthday>-94</foaf:birthday>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/423025"/>
+    <foaf:name xml:lang="lat">Titus Lucretius Carus</foaf:name>
+    <schema:deathDate>-54</schema:deathDate>
+    <foaf:name xml:lang="fre">Lucrèce</foaf:name>
   </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/12290061">
     <pschema:hasOccupation rdf:resource="http://www.wikidata.org/wiki/Q40779"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/wiki/Q1234585">
+    <foaf:publications rdf:resource="http://viaf.org/viaf/66462281"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/96539514">
+    <schema:sponsor rdf:resource="http://viaf.org/viaf/100226923"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/wiki/Q229871">
+    <relationship:spouseOf rdf:resource="http://www.wikidata.org/wiki/Q1411"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/wiki/Q544948">
+    <dc:creator rdf:resource="http://viaf.org/viaf/286265178"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/294047250">
+    <schema:about rdf:resource="http://viaf.org/viaf/12290061"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/313680866">
+    <dc:creator rdf:resource="http://viaf.org/viaf/8194433"/>
+    <schema:editor rdf:resource="http://viaf.org/viaf/50018621"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/40305158">
+    <schema:spouse rdf:resource="http://viaf.org/viaf/10638270"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/248145424558486830832">
     <dc:creator rdf:resource="http://viaf.org/viaf/8194433"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/wiki/Q48235">
+    <foaf:topic_interest rdf:resource="http://viaf.org/viaf/90637919"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/wiki/Q2293346">
+    <schema:description rdf:resource="http://viaf.org/viaf/100226923"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://viaf.org/viaf/100219162">
     <schema:parent rdf:resource="http://viaf.org/viaf/10638270"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://www.wikidata.org/wiki/Q1234585">
-    <foaf:publications rdf:resource="http://viaf.org/viaf/66462281"/>
   </rdf:Description>
 </rdf:RDF>

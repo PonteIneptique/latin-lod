@@ -59,3 +59,19 @@ with open(os.path.join(DIR, "..", "lod.turtle"), "w") as output:
 
 with open(os.path.join(DIR, "..", "lod.xml"), "w") as output:
     output.write(graph.serialize(format='application/rdf+xml').decode())
+
+
+def normalizeUri(obj):
+    if isinstance(obj, rdflib.URIRef):
+        return graph.namespace_manager.normalizeUri(obj)
+    return obj
+
+
+with open(os.path.join(DIR, "..", "lod.tsv"), "w") as output:
+    output.write("Sujet\tPrédicat\tObjet\n")
+    for s, p, o in graph:
+        output.write("{}\t{}\t{}\n".format(
+            normalizeUri(s),
+            normalizeUri(p),
+            normalizeUri(o)
+        ))
