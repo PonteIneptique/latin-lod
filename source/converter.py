@@ -56,3 +56,6 @@ for TSVFile in glob.glob(os.path.join(DIR, "*.tsv")):
 
 with open(os.path.join(DIR, "..", "lod.turtle"), "w") as output:
     output.write(graph.serialize(format='turtle').decode())
+
+with open(os.path.join(DIR, "..", "lod.xml"), "w") as output:
+    output.write(graph.serialize(format='application/rdf+xml').decode())

@@ -89,8 +89,8 @@ wikidata:Q544948 dc:creator <http://viaf.org/viaf/286265178> .
     schema:deathDate "7/12/-43" ;
     schema:deathPlace <http://pleiades.stoa.org/places/432734> ;
     schema:gender wikidata:Q6581097 ;
+    schema:knows wikidata:Q75826 ;
     schema:nationality wikidata:Q1747689 ;
-    <http://viaf.org/viaf/78769600> wikidata:Q75826 ;
     wikidataProp:P26 wikidata:Q435936 ;
     wikidata:Q289891 wikidata:Q1048 ;
     foaf:birthday "3/01/-106" ;
