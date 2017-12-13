@@ -1,0 +1,287 @@
+https://viaf.org/viaf/100226923	xmlns.com/foaf/0.1/name	Tacite	fre
+https://viaf.org/viaf/100226923	xmlns.com/foaf/0.1/name	Publius Cornelius Tacitus	lat
+https://viaf.org/viaf/100226923	http://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q201788	
+https://viaf.org/viaf/100226923	http://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q15686806	
+https://viaf.org/viaf/100226923	http://schema.org/birthPlace	https://pleiades.stoa.org/places/981537	
+https://viaf.org/viaf/100226923	http://schema.org/birthDate	58	
+https://viaf.org/viaf/100226923	http://schema.org/deathDate	120	
+https://viaf.org/viaf/100226923	http://schema.org/author	https://viaf.org/viaf/174131919	
+https://viaf.org/viaf/100226923	http://schema.org/author	https://viaf.org/viaf/306068107	
+https://viaf.org/viaf/100226923	http://schema.org/relatedTo	https://viaf.org/viaf/12290061	
+https://viaf.org/viaf/96539514	http://schema.org/sponsor	https://viaf.org/viaf/100226923	
+https://viaf.org/viaf/12290061	http://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q40779	
+https://viaf.org/viaf/294047250	http://schema.org/about	https://viaf.org/viaf/12290061	
+https://viaf.org/viaf/100226923	http://schema.org/follows	https://viaf.org/viaf/104162705	
+https://viaf.org/viaf/100226923	http://schema.org/follows	https://viaf.org/viaf/99942145	
+https://viaf.org/viaf/100226923	http://schema.org/follows	https://viaf.org/viaf/78769600	
+https://viaf.org/viaf/100226923	http://schema.org/about	https://www.wikidata.org/wiki/Q48235	
+https://www.wikidata.org/wiki/Q2293346	http://schema.org/description	https://viaf.org/viaf/100226923	
+https://viaf.org/viaf/100226923	http://schema.org/member	https://www.wikidata.org/wiki/Q303593	
+https://viaf.org/viaf/100226923	http://schema.org/winner	https://www.wikidata.org/wiki/Q2282528	
+https://viaf.org/viaf/100226923	http://schema.org/member	https://www.wikidata.org/wiki/Q122166	
+https://viaf.org/viaf/18013086	http://xmlns.com/foaf/0.1/name	Caius Octavius	lat
+https://viaf.org/viaf/18013086	http://schema.org/birthDate	23/09/-63	
+https://viaf.org/viaf/18013086	http://schema.org/deathDate	08/19/14	
+https://viaf.org/viaf/18013086	http://schema.org/birthPlace	https://pleiades.stoa.org/places/423025	
+https://viaf.org/viaf/18013086	http://schema.org/deathPlace	https://pleiades.stoa.org/places/432981	
+https://viaf.org/viaf/18013086	http://schema.org/parent	https://www.wikidata.org/wiki/Q1048	
+https://viaf.org/viaf/18013086	http://schema.org/hasOccupation	https://www.wikidata.org/wiki/Q83204	
+https://viaf.org/viaf/18013086	http://schema.org/colleague	https://viaf.org/viaf/11492581	
+https://viaf.org/viaf/18013086	http://schema.org/colleague	https://viaf.org/viaf/4911148947867154950004	
+https://viaf.org/viaf/18013086	http://schema.org/hasOccupation	https://www.wikidata.org/wiki/Q725434	
+https://viaf.org/viaf/18013086	http://schema.org/jobTitle	Princeps civitatis	lat
+https://viaf.org/viaf/18013086	http://schema.org/children	https://viaf.org/viaf/89600176	
+https://viaf.org/viaf/18013086	http://schema.org/nationality	https://pleiades.stoa.org/places/837078212	
+https://viaf.org/viaf/18013086	http://schema.org/children	https://viaf.org/viaf/58081943	
+https://viaf.org/viaf/18013086	http://schema.org/children	https://viaf.org/viaf/56580498	
+https://viaf.org/viaf/18013086	http://schema.org/children	https://viaf.org/viaf/316751293	
+https://pleiades.stoa.org/places/423025	http://dbpedia.org/ontology/politicalLeader	https://viaf.org/viaf/18013086	
+https://viaf.org/viaf/18013086	http://dbpedia.org/ontology/residence	https://pleiades.stoa.org/places/971691208	
+https://viaf.org/viaf/18013086	http://dbpedia.org/ontology/placeOfBurial	https://pleiades.stoa.org/places/422863	
+https://viaf.org/viaf/18013086	http://purl.org/dc/elements/1.1/identifier	urn:cts:latinLit:phi1221	
+https://viaf.org/viaf/100227522	http://xmlns.com/foaf/0.1/name	Horace	fre
+https://viaf.org/viaf/100227522	http://xmlns.com/foaf/0.1/birthday	12/-0065	
+https://viaf.org/viaf/100227522	http://schema.org/birthPlace	https://pleiades.stoa.org/places/442847	
+https://viaf.org/viaf/100227522	http://schema.org/deathPlace	https://pleiades.stoa.org/places/423025	
+https://viaf.org/viaf/100227522	http://schema.org/hasOccupation	https://www.wikidata.org/wiki/Q49757	
+https://viaf.org/viaf/100227522	http://schema.org/funder	https://viaf.org/viaf/36906810	
+https://viaf.org/viaf/100227522	http://xmlns.com/foaf/0.1/publications	https://viaf.org/viaf/177408390	
+https://viaf.org/viaf/100227522	http://schema.org/deathDate	00/11/-0008	
+https://viaf.org/viaf/100227522	http://xmlns.com/foaf/0.1/publications	https://viaf.org/viaf/181240107	
+https://viaf.org/viaf/100227522	http://xmlns.com/foaf/0.1/publications	https://viaf.org/viaf/179441309	
+https://viaf.org/viaf/100227522	http://schema.org/additionalName	Quintus Horatius Flaccus	lat
+https://viaf.org/viaf/100227522	http://schema.org/hasOccupation	https://www.wikidata.org/wiki/Q849288	
+https://viaf.org/viaf/100227522	http://schema.org/alumniOf	https://viaf.org/viaf/76207567	
+https://viaf.org/viaf/100227522	http://schema.org/affiliation	https://www.wikidata.org/wiki/Q122166	
+https://viaf.org/viaf/100227522	http://schema.org/hasOccupation	https://www.wikidata.org/wiki/Q189430	
+https://viaf.org/viaf/100227522	http://schema.org/hasOccupation	https://www.wikidata.org/wiki/Q20056508	
+https://viaf.org/viaf/18013086	http://schema.org/sponsor	https://viaf.org/viaf/100227522	
+https://viaf.org/viaf/100227522	http://schema.org/performerIn	https://www.wikidata.org/wiki/Q160387	
+https://viaf.org/viaf/100227522	http://schema.org/performerIn	https://www.wikidata.org/wiki/Q335330	
+https://viaf.org/viaf/298310776	http://xmlns.com/foaf/0.1/name	Catulle	fre
+https://viaf.org/viaf/298310776	http://xmlns.com/foaf/0.1/name	Catullus	lat
+https://viaf.org/viaf/298310776	http://schema.org/birthDate	-84	fre
+https://viaf.org/viaf/298310776	http://schema.org/birthPlace	https://pleiades.stoa.org/places/383816	
+https://viaf.org/viaf/298310776	schema.org/deathDate	-54	
+https://viaf.org/viaf/298310776	http://schema.org/deathPlace	https://pleiades.stoa.org/places/423025	
+https://viaf.org/viaf/298310776	http://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q49757	
+https://viaf.org/viaf/298310776	http://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q36180	
+https://viaf.org/viaf/298310776	http://schema.org/knows	https://viaf.org/viaf/78769600	
+https://viaf.org/viaf/298310776	http://schema.org/knows	https://viaf.org/viaf/286265178	
+https://viaf.org/viaf/298310776	http://xmlns.com/foaf/0.1/publications	http://viaf.org/processed/BNF%7C14483957	
+https://viaf.org/viaf/298310776	http://schema.org/relatedTo	https://www.wikidata.org/wiki/Q1429412	
+https://viaf.org/viaf/298310776	http://schema.org/knows	https://www.wikidata.org/wiki/Q1235482	
+https://viaf.org/viaf/298310776	http://schema.org/knows	https://viaf.org/viaf/100219060	
+https://viaf.org/viaf/298310776	http://schema.org/knows	Juventius	lat
+https://viaf.org/viaf/298310776	http://schema.org/knows	https://viaf.org/viaf/88642691	
+https://viaf.org/viaf/298310776	http://schema.org/knows	https://viaf.org/viaf/32386508	
+https://viaf.org/viaf/298310776	http://schema.org/affiliation	Novi Poetae	lat
+https://viaf.org/viaf/298310776	http://schema.org/address	https://pleiades.stoa.org/places/383781	
+viaf.org/viaf/78769600	xmlns.com/foaf/0.1/name	Cicéron	fre
+viaf.org/viaf/78769600	xmlns.com/foaf/0.1/name	Marcus Tullius Cicero	lat
+viaf.org/viaf/78769600	xmlns.com/foaf/0.1/birthday	3/01/-106	
+viaf.org/viaf/78769600	http://schema.org/birthPlace	https://pleiades.stoa.org/places/432700	
+viaf.org/viaf/78769600	http://xmlns.com/foaf/0.1/publications	https://www.wikidata.org/wiki/Q1055008	
+viaf.org/viaf/78769600	https://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q2912782	
+viaf.org/viaf/78769600	https://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q172907	
+viaf.org/viaf/78769600	https://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q189430	
+viaf.org/viaf/78769600	https://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q205757	
+viaf.org/viaf/78769600	http://schema.org/deathPlace	https://pleiades.stoa.org/places/432734	
+viaf.org/viaf/78769600	http://schema.org/deathDate	7/12/-43	
+viaf.org/viaf/78769600	https://www.wikidata.org/wiki/Property:P26	https://www.wikidata.org/wiki/Q435936	
+viaf.org/viaf/78769600	http://schema.org/gender	https://www.wikidata.org/wiki/Q6581097	
+viaf.org/viaf/78769600	http://schema.org/nationality	https://www.wikidata.org/wiki/Q1747689	
+viaf.org/viaf/78769600	https://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q4964182	
+viaf.org/viaf/78769600	https://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q12859263	
+viaf.org/viaf/78769600	http://schema.org/CreativeWork	https://www.wikidata.org/wiki/Q246289	
+viaf.org/viaf/78769600	https://www.wikidata.org/wiki/Q289891	https://www.wikidata.org/wiki/Q1048	
+viaf.org/viaf/78769600	viaf.org/viaf/78769600	https://www.wikidata.org/wiki/Q75826	
+https://viaf.org/viaf/10638270	http://xmlns.com/foaf/0.1/name	Pline Le Jeune	fre
+https://viaf.org/viaf/10638270	http://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q15686806	
+https://viaf.org/viaf/10638270	http://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q40348	
+https://viaf.org/viaf/10638270	http://schema.org/birthPlace	https://pleiades.stoa.org/places/383627	
+https://viaf.org/viaf/10638270	http://schema.org/deathPlace	https://pleiades.stoa.org/places/981512	
+https://viaf.org/viaf/10638270	http://schema.org/birthDate	61	
+https://viaf.org/viaf/10638270	http://schema.org/deathDate	114	
+https://viaf.org/viaf/10638270	https://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q629712	
+https://viaf.org/viaf/10638270	https://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q1190123	
+https://viaf.org/viaf/10638270	http://schema.org/familyName	https://viaf.org/viaf/316584858	
+https://viaf.org/viaf/10638270	http://schema.org/creator	https://www.wikidata.org/wiki/Q1784733	
+https://viaf.org/viaf/10638270	http://schema.org/knows	https://www.wikidata.org/wiki/Q842606	
+https://viaf.org/viaf/10638270	http://schema.org/knows	https://viaf.org/viaf/34451872	
+https://viaf.org/viaf/100219162	http://schema.org/parent	https://viaf.org/viaf/10638270	
+https://viaf.org/viaf/10638270	http://schema.org/creator	https://www.wikidata.org/wiki/Q5369651	
+https://viaf.org/viaf/10638270	https://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q11704729	
+https://viaf.org/viaf/10638270	http://schema.org/hasOccupation	https://www.wikidata.org/wiki/Q172907	
+https://viaf.org/viaf/40305158	http://schema.org/spouse	https://viaf.org/viaf/10638270	
+https://viaf.org/viaf/10638270	http://schema.org/additionalName	https://viaf.org/viaf/10638270	
+https://viaf.org/viaf/8194433	http://xmlns.com/foaf/0.1/name	Virgile	fre
+https://viaf.org/viaf/8194433	http://xmlns.com/foaf/0.1/name	Publius Vergilius Maro	lat
+https://viaf.org/viaf/8194433	http://schema.org/hasOccupation	https://www.wikidata.org/wiki/Q482	
+https://viaf.org/viaf/313680866	http://purl.org/dc/elements/1.1/creator	https://viaf.org/viaf/8194433	
+https://viaf.org/viaf/8194433	http://schema.org/birthPlace	https://pleiades.stoa.org/places/383570	
+https://viaf.org/viaf/8194433	http://schema.org/deathPlace	https://pleiades.stoa.org/places/442509	
+https://viaf.org/viaf/8194433	http://schema.org/birthDate	-70	
+https://viaf.org/viaf/8194433	http://schema.org/deathDate	-19	
+https://viaf.org/viaf/8194433	http://xmlns.com/foaf/0.1/knows	https://viaf.org/viaf/298310776	
+https://viaf.org/viaf/313680866	http://schema.org/editor	https://viaf.org/viaf/50018621	
+https://viaf.org/viaf/8194433	http://xmlns.com/foaf/0.1/knows	https://viaf.org/viaf/100227522	
+https://viaf.org/viaf/36906810	http://schema.org/sponsor	https://viaf.org/viaf/8194433	
+https://viaf.org/viaf/18013086	http://schema.org/sponsor	https://viaf.org/viaf/8194433	
+https://viaf.org/viaf/8194433	http://schema.org/nationality	https://www.wikidata.org/wiki/Q2277	
+https://viaf.org/viaf/8194433	http://xmlns.com/foaf/0.1/knows	https://viaf.org/viaf/11381108	
+https://viaf.org/viaf/183081221	http://purl.org/dc/elements/1.1/creator	https://viaf.org/viaf/8194433	
+https://viaf.org/viaf/248145424558486830832	http://purl.org/dc/elements/1.1/creator	https://viaf.org/viaf/8194433	
+https://viaf.org/viaf/8194433	http://schema.org/TravelAction	https://pleiades.stoa.org/places/579885	
+https://viaf.org/viaf/8194433	http://xmlns.com/foaf/0.1/topic_interest	https://www.wikidata.org/wiki/Q5891	
+https://viaf.org/viaf/8194433	http://xmlns.com/foaf/0.1/topic_interest	https://www.wikidata.org/wiki/Q395	
+https://viaf.org/viaf/66462281	http://xmlns.com/foaf/0.1/name	Plaute	fre
+https://viaf.org/viaf/66462281	http://xmlns.com/foaf/0.1/name	Titus Maccius Plautus	lat
+https://viaf.org/viaf/66462281	http://schema.org/birthDate	-254	
+https://viaf.org/viaf/66462281	http://schema.org/deathDate	-184	
+https://viaf.org/viaf/66462281	http://schema.org/birthPlace	https://pleiades.stoa.org/places/413306	
+https://viaf.org/viaf/66462281	http://schema.org/deathDate	https://pleiades.stoa.org/places/423025	
+https://www.wikidata.org/wiki/Q1234585	http://xmlns.com/foaf/0.1/publications	https://viaf.org/viaf/66462281	
+https://viaf.org/viaf/66462281	http://schema.org/hasOccupation	https://www.wikidata.org/wiki/Q482980	
+https://viaf.org/viaf/66462281	http://schema.org/hasOccupation	https://www.wikidata.org/wiki/Q154549	
+https://viaf.org/viaf/66462281	http://schema.org/hasOccupation	https://www.wikidata.org/wiki/Q500251	
+https://viaf.org/viaf/66462281	http://xmlns.com/foaf/0.1/publications	https://www.wikidata.org/wiki/Q798026	
+https://viaf.org/viaf/66462281	http://xmlns.com/foaf/0.1/publications	https://www.wikidata.org/wiki/Q2523113	
+https://viaf.org/viaf/66462281	http://xmlns.com/foaf/0.1/publications	https://viaf.org/viaf/177333620/	
+https://viaf.org/viaf/66462281	http://xmlns.com/foaf/0.1/publications	https://viaf.org/viaf/176788865/	
+https://viaf.org/viaf/66462281	http://xmlns.com/foaf/0.1/publications	https://viaf.org/viaf/174822889/	
+https://viaf.org/viaf/66462281	http://xmlns.com/foaf/0.1/publications	https://viaf.org/viaf/181526271/	
+https://viaf.org/viaf/66462281	http://xmlns.com/foaf/0.1/publications	https://viaf.org/viaf/186138325/	
+https://viaf.org/viaf/66462281	http://xmlns.com/foaf/0.1/publications	https://viaf.org/viaf/275023762/	
+https://viaf.org/viaf/66462281	http://xmlns.com/foaf/0.1/publications	https://viaf.org/viaf/273381689/	
+viaf:8099277	foaf:name	"Martial"	fre
+viaf:8099277	foaf:name	"Marcus Valerius Martialis"	lat
+viaf:8099277	dc:identifier	urn:cts:latinLit:phi1294	
+viaf:8099277	dbpedia:birthDate	40	
+viaf:8099277	dbpedia:deathDate	104	
+viaf:305991465	dc:creator	viaf:8099277	
+viaf:8099277	dbpedia:birthPlace	pleiades:246247	
+viaf:8099277	dbpedia:deathPlace	pleiades:246247	
+viaf:8099277	pschema:hasOccupation	wikidata:Q49757	
+viaf:8099277	pschema:hasOccupation	wikidata:Q36180	
+viaf:8099277	dbpedia:birthPlace	pleiades:1027	
+viaf:8099277	dbpedia:birthPlace	pleiades:981551	
+viaf:8099277	foaf:knows	viaf:90637919	
+viaf:8099277	foaf:knows	viaf:10638270	
+viaf:180555667	dc:identifier	viaf:8099277	
+viaf:8099277	pschema:hasOccupation	wikidata:Q849288	
+viaf:8099277	schema:memberOf	wikidata:Q122166	
+viaf:8099277	schema:funder	viaf:96284078	
+viaf:8099277	schema:funder	viaf:83217593	
+viaf:8099277	dbpedia:memberFamily	wikidata:Q1429412	
+viaf:8099277	schema:nationality	wikidata:Q1747689	
+viaf:8099277	wikidata:Property:P1412	wikidata:Q397	
+viaf:8099277	dbpedia:eponym	wikidata:Q15139124	
+https://viaf.org/viaf/106388020	http://xmlns.com/foaf/0.1/name	Lucrèce	fre
+https://viaf.org/viaf/106388020	http://xmlns.com/foaf/0.1/name	Titus Lucretius Carus	lat
+https://viaf.org/viaf/106388020	http://xmlns.com/foaf/0.1/birthday	-94	
+https://viaf.org/viaf/176199512	http://purl.org/dc/terms/creator	https://viaf.org/viaf/106388020	
+https://viaf.org/viaf/176199512	http://purl.org/dc/terms/title	De la nature des choses	fre 
+https://viaf.org/viaf/176199512	http://purl.org/dc/terms/title	De rerum natura	lat
+https://viaf.org/viaf/106388020	http://schema.org/birthPlace	https://pleiades.stoa.org/places/423025	
+https://viaf.org/viaf/106388020	http://schema.org/deathDate	-54	
+https://viaf.org/viaf/176199512	http://schema.org/citation	https://viaf.org/viaf/177736136	
+https://viaf.org/viaf/286265178	http://xmlns.com/foaf/0.1/name	César	fre
+https://viaf.org/viaf/286265178	http://xmlns.com/foaf/0.1/name	Caius Iulius Caesar IV	lat
+https://viaf.org/viaf/286265178	http://schema.org/birthDate	-100	
+https://viaf.org/viaf/286265178	http://schema.org/deathDate	-44	
+https://viaf.org/viaf/286265178	http://schema.org/birthPlace	https://pleiades.stoa.org/places/423025	
+https://viaf.org/viaf/286265178	http://schema.org/deathDate	https://pleiades.stoa.org/places/423025	
+https://viaf.org/viaf/286265178	http://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q82955	
+https://viaf.org/viaf/286265178	https://www.wikidata.org/wiki/Property:P410	https://www.wikidata.org/wiki/Q83460	
+https://viaf.org/viaf/286265178	http://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q36180	
+https://viaf.org/viaf/286265178	https://www.wikidata.org/wiki/Property:P39	https://www.wikidata.org/wiki/Q236885	
+https://www.wikidata.org/wiki/Q106199	http://purl.org/dc/elements/1.1/creator	https://viaf.org/viaf/286265178	
+https://www.wikidata.org/wiki/Q544948	http://purl.org/dc/elements/1.1/creator	https://viaf.org/viaf/286265178	
+https://viaf.org/viaf/286265178	https://www.wikidata.org/wiki/Property:P1196	https://www.wikidata.org/wiki/Q149086	
+https://viaf.org/viaf/286265178	https://www.wikidata.org/wiki/Property:P25	https://www.wikidata.org/wiki/Q232725	
+https://viaf.org/viaf/286265178	https://www.wikidata.org/wiki/Property:P40	https://www.wikidata.org/wiki/Q1405	
+https://viaf.org/viaf/286265178	http://xmlns.com/foaf/0.1/knows	https://viaf.org/viaf/67762941	
+https://viaf.org/viaf/286265178	https://www.wikidata.org/wiki/Property:P53	https://www.wikidata.org/wiki/Q192841	
+https://viaf.org/viaf/286265178	https://dbpedia.org/ontology/Victory	https://viaf.org/viaf/18018702	
+https://viaf.org/viaf/286265178	https://www.wikidata.org/wiki/Property:P39	https://www.wikidata.org/wiki/Q21597597	
+https://viaf.org/viaf/286265178	https://www.wikidata.org/wiki/Property:P21	https://www.wikidata.org/wiki/Q6581097	
+https://viaf.org/viaf/286265178	https://www.wikidata.org/wiki/Property:P22	https://www.wikidata.org/wiki/Q314710	
+https://viaf.org/viaf/104162705	http://xmlns.com/foaf/0.1/name	Salluste	fre
+https://viaf.org/viaf/104162705	http://xmlns.com/foaf/0.1/name	Gaius Sallustius Crispus	lat
+https://viaf.org/viaf/104162705	http://xmlns.com/foaf/0.1/birthday	-86	fre
+https://viaf.org/viaf/104162705	http://schema.org/birthPlace	https://pleiades.stoa.org/places/413013	
+https://viaf.org/viaf/104162705	http://schema.org/deathPlace	https://pleiades.stoa.org/places/423025	
+https://viaf.org/viaf/104162705	http://schema.org/workLocation	https://pleiades.stoa.org/places/423025	
+https://viaf.org/viaf/104162705	http://schema.org/deathDate	-35	
+https://viaf.org/viaf/88342447	dc:identifier	https://www.wikidata.org/wiki/Q7198	
+https://viaf.org/viaf/88342447	xmlns.com/foaf/0.1/name	Ovide	fre
+https://viaf.org/viaf/88342447	http://schema.org/birthPlace	https://pleiades.stoa.org/places/413019	
+https://viaf.org/viaf/88342447	http://schema.org/deathPlace	https://pleiades.stoa.org/places/217016	
+https://viaf.org/viaf/88342447	http://schema.org/givenName	Naso	lat
+https://viaf.org/viaf/88342447	http://schema.org/memberOf	https://www.wikidata.org/wiki/Q122166	
+https://viaf.org/viaf/88342447	http://schema.org/relatedTo	https://www.wikidata.org/wiki/Q1405	
+https://viaf.org/viaf/88342447	http://schema.org/spouse	Fabia	lat
+https://viaf.org/viaf/88342447	http://xmlns.com/foaf/0.1/Group	https://www.wikidata.org/wiki/Q122166	
+https://viaf.org/viaf/309541915	http://schema.org/Book	https://viaf.org/viaf/88342447	
+https://viaf.org/viaf/309541915	http://schema.org/Book	https://viaf.org/viaf/302466394	
+https://viaf.org/viaf/309541915	http://schema.org/Book	https://viaf.org/viaf/301102439	
+https://viaf.org/viaf/309541915	http://schema.org/Book	https://viaf.org/viaf/174402707/	
+https://viaf.org/viaf/309541915	http://schema.org/Book	https://viaf.org/viaf/176453208	
+https://viaf.org/viaf/309541915	http://schema.org/Book	https://viaf.org/viaf/990145856882922920263	
+https://viaf.org/viaf/88342447	http://schema.org/workLocation	http://www.geonames.org/maps/google_37.979_23.716.html	
+https://viaf.org/viaf/100219060	http://xmlns.com/foaf/0.1/name	Cornelius Nepos	fre
+https://viaf.org/viaf/100219060	http://schema.org/birthPlace	https://pleiades.stoa.org/places/393438	
+https://viaf.org/viaf/100219060	http://schema.org/birthDate	-100	
+https://viaf.org/viaf/100219060	http://schema.org/deathPlace	http://www.geonames.org/maps/google_41.892_12.511.html	
+https://viaf.org/viaf/100219060	http://schema.org/deathDate	-25	
+https://viaf.org/viaf/100219060	http://schema.org/GenderType	http://schema.org/Male	
+https://viaf.org/viaf/100219060	http://xmlns.com/foaf/0.1/knows	https://viaf.org/viaf/178490045	
+https://viaf.org/viaf/100219060	http://xmlns.com/foaf/0.1/knows	https://viaf.org/viaf/78769600	
+https://viaf.org/viaf/100219060	http://xmlns.com/foaf/0.1/knows	https://viaf.org/viaf/100218993	
+https://viaf.org/viaf/100219060	http://schema.org/hasOccupation	https://www.wikidata.org/wiki/Q201788	
+https://viaf.org/viaf/100219060	http://schema.org/hasOccupation	https://www.wikidata.org/wiki/Q36180	
+https://viaf.org/viaf/100219060	http://schema.org/hasOccupation	https://www.wikidata.org/wiki/Q864380	
+https://viaf.org/viaf/100219060	https://www.wikidata.org/wiki/Property:P53	https://www.wikidata.org/wiki/Q221312	
+https://viaf.org/viaf/100219060	http://schema.org/author	https://viaf.org/viaf/207939228	
+https://viaf.org/viaf/100219060	http://schema.org/author	https://viaf.org/viaf/189367035	
+https://viaf.org/viaf/100219060	http://schema.org/author	https://viaf.org/viaf/181179180	
+https://viaf.org/viaf/66462384	http://xmlns.com/foaf/0.1/name	Térence	fre
+https://viaf.org/viaf/66462384	http://xmlns.com/foaf/0.1/name	Publius Terentius Afer	lat
+https://viaf.org/viaf/66462384	http://schema.org/birthPlace	https://pleiades.stoa.org/places/314921	
+https://viaf.org/viaf/66462384	http://schema.org/birthDate	-190	
+https://viaf.org/viaf/66462384	http://schema.org/deathPlace	https://pleiades.stoa.org/places/423025	
+https://viaf.org/viaf/66462384	http://schema.org/deathDate	-159	
+https://viaf.org/viaf/66462384	http://xmlns.com/foaf/0.1/maker	https://www.wikidata.org/wiki/Q40831	
+https://viaf.org/viaf/66462384	http://xmlns.com/foaf/0.1/knows	https://www.wikidata.org/wiki/Q2307	
+https://viaf.org/viaf/66462384	http://schema.org/author	https://www.wikidata.org/wiki/Q1233645	
+https://viaf.org/viaf/66462384	http://schema.org/author	https://www.wikidata.org/wiki/Q545258	
+https://viaf.org/viaf/66462384	http://schema.org/author	https://www.wikidata.org/wiki/Q678909	
+https://viaf.org/viaf/66462384	http://schema.org/author	https://www.wikidata.org/wiki/Q1233598	
+https://viaf.org/viaf/66462384	http://schema.org/author	https://www.wikidata.org/wiki/Q1217045	
+https://viaf.org/viaf/66462384	http://schema.org/author	https://www.wikidata.org/wiki/Q355342	
+https://viaf.org/viaf/90637919	xmlns.com/foaf/0.1/name	Sénèque	fre
+https://viaf.org/viaf/90637919	xmlns.com/foaf/0.1/name	Lucius Annaeus Seneca	lat
+https://viaf.org/viaf/90637919	http://schema.org/birthPlace	https://viaf.org/viaf/155934955	
+https://viaf.org/viaf/90637919	http://schema.org/birthDate	-4	
+https://viaf.org/viaf/90637919	http://schema.org/deathDate	12/04/65	
+https://www.wikidata.org/wiki/Q48235	http://xmlns.com/foaf/0.1/topic_interest	https://viaf.org/viaf/90637919	
+https://viaf.org/viaf/90637919	http://xmlns.com/foaf/0.1/nickname	Sénèque le Philosophe	fre
+https://viaf.org/viaf/90637919	https://www.wikidata.org/wiki/Q609016	https://www.wikidata.org/wiki/Q1413	
+https://viaf.org/viaf/90637919	http://xmlns.com/foaf/0.1/publications	https://www.wikidata.org/wiki/Q1180596	
+https://viaf.org/viaf/90637919	http://xmlns.com/foaf/0.1/publications	https://www.wikidata.org/wiki/Q3332727	
+https://viaf.org/viaf/90637919	http://xmlns.com/foaf/0.1/publications	https://www.wikidata.org/wiki/Q720535	
+https://viaf.org/viaf/90637919	http://www.perceive.net/schemas/20021119/relationship/#childOf	https://www.wikidata.org/wiki/Q273671	
+https://viaf.org/viaf/90637919	http://www.perceive.net/schemas/20021119/relationship/#enemyOf	https://www.wikidata.org/wiki/Q229871	
+https://www.wikidata.org/wiki/Q229871	http://www.perceive.net/schemas/20021119/relationship/#spouseOf	https://www.wikidata.org/wiki/Q1411	
+https://viaf.org/viaf/90637919	http://www.perceive.net/schemas/20021119/relationship/#acquaintanceOf	https://www.wikidata.org/wiki/Q453916	
+https://viaf.org/viaf/90637919	http://xmlns.com/foaf/0.1/Organization	https://www.wikidata.org/wiki/Q787204	
+https://viaf.org/viaf/90637919	http://www.perceive.net/schemas/20021119/relationship/#siblingOf	https://www.wikidata.org/wiki/Q452194	
+https://viaf.org/viaf/83985148	http://xmlns.com/foaf/0.1/name	Juvénal	fre
+https://viaf.org/viaf/83985148	https://pending.schema.org/hasOccupation	https://www.wikidata.org/wiki/Q49757	
+https://viaf.org/viaf/83985148	http://schema.org/birthPlace	https://pleiades.stoa.org/places/432695	
+https://viaf.org/viaf/83985148	http://schema.org/author	https://www.wikidata.org/wiki/Q2707099	
+https://viaf.org/viaf/83985148	http://schema.org/knows	https://www.wikidata.org/wiki/Q2098	
+https://viaf.org/viaf/83985148	http://schema.org/deathPlace	https://pleiades.stoa.org/places/716588	
+https://viaf.org/viaf/83985148	http://schema.org/parent	https://www.wikidata.org/wiki/Q841571	
+https://viaf.org/viaf/83985148	http://schema.org/follows	https://www.wikidata.org/wiki/Q193769	

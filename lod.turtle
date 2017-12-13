@@ -1,0 +1,341 @@
+@prefix dbpedia: <http://dbpedia.org/ontology/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.geonames.org/> .
+@prefix pleiades: <http://pleiades.stoa.org/places/> .
+@prefix pschema: <http://pending.schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix relationship: <http://www.perceive.net/schemas/20021119/relationship/#> .
+@prefix schema: <http://schema.org/> .
+@prefix viaf: <http://viaf.org/viaf/> .
+@prefix wikidata: <http://www.wikidata.org/wiki/> .
+@prefix wikidataProp: <http://www.wikidata.org/wiki/Property:> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://viaf.org/viaf/100219162> schema:parent <http://viaf.org/viaf/10638270> .
+
+<http://viaf.org/viaf/176199512> dct:creator <http://viaf.org/viaf/106388020> ;
+    dct:title "De la nature des choses"@fre,
+        "De rerum natura"@lat ;
+    schema:citation <http://viaf.org/viaf/177736136> .
+
+<http://viaf.org/viaf/180555667> dc:identifier <http://viaf.org/viaf/8099277> .
+
+<http://viaf.org/viaf/183081221> dc:creator <http://viaf.org/viaf/8194433> .
+
+<http://viaf.org/viaf/248145424558486830832> dc:creator <http://viaf.org/viaf/8194433> .
+
+<http://viaf.org/viaf/294047250> schema:about <http://viaf.org/viaf/12290061> .
+
+<http://viaf.org/viaf/305991465> dc:creator <http://viaf.org/viaf/8099277> .
+
+<http://viaf.org/viaf/309541915> schema:Book <http://viaf.org/viaf/174402707/>,
+        <http://viaf.org/viaf/176453208>,
+        <http://viaf.org/viaf/301102439>,
+        <http://viaf.org/viaf/302466394>,
+        <http://viaf.org/viaf/88342447>,
+        <http://viaf.org/viaf/990145856882922920263> .
+
+<http://viaf.org/viaf/313680866> dc:creator <http://viaf.org/viaf/8194433> ;
+    schema:editor <http://viaf.org/viaf/50018621> .
+
+<http://viaf.org/viaf/40305158> schema:spouse <http://viaf.org/viaf/10638270> .
+
+<http://viaf.org/viaf/66462384> schema:author wikidata:Q1217045,
+        wikidata:Q1233598,
+        wikidata:Q1233645,
+        wikidata:Q355342,
+        wikidata:Q545258,
+        wikidata:Q678909 ;
+    schema:birthDate "-190" ;
+    schema:birthPlace <http://pleiades.stoa.org/places/314921> ;
+    schema:deathDate "-159" ;
+    schema:deathPlace <http://pleiades.stoa.org/places/423025> ;
+    foaf:knows wikidata:Q2307 ;
+    foaf:maker wikidata:Q40831 ;
+    foaf:name "Térence"@fre,
+        "Publius Terentius Afer"@lat .
+
+<http://viaf.org/viaf/83985148> pschema:hasOccupation wikidata:Q49757 ;
+    schema:author wikidata:Q2707099 ;
+    schema:birthPlace <http://pleiades.stoa.org/places/432695> ;
+    schema:deathPlace <http://pleiades.stoa.org/places/716588> ;
+    schema:follows wikidata:Q193769 ;
+    schema:knows wikidata:Q2098 ;
+    schema:parent wikidata:Q841571 ;
+    foaf:name "Juvénal"@fre .
+
+<http://viaf.org/viaf/96539514> schema:sponsor <http://viaf.org/viaf/100226923> .
+
+wikidata:Q106199 dc:creator <http://viaf.org/viaf/286265178> .
+
+wikidata:Q1234585 foaf:publications <http://viaf.org/viaf/66462281> .
+
+wikidata:Q2293346 schema:description <http://viaf.org/viaf/100226923> .
+
+wikidata:Q544948 dc:creator <http://viaf.org/viaf/286265178> .
+
+<viaf.org/viaf/78769600> pschema:hasOccupation wikidata:Q12859263,
+        wikidata:Q172907,
+        wikidata:Q189430,
+        wikidata:Q205757,
+        wikidata:Q2912782,
+        wikidata:Q4964182 ;
+    schema:CreativeWork wikidata:Q246289 ;
+    schema:birthPlace <http://pleiades.stoa.org/places/432700> ;
+    schema:deathDate "7/12/-43" ;
+    schema:deathPlace <http://pleiades.stoa.org/places/432734> ;
+    schema:gender wikidata:Q6581097 ;
+    schema:nationality wikidata:Q1747689 ;
+    <http://viaf.org/viaf/78769600> wikidata:Q75826 ;
+    wikidataProp:P26 wikidata:Q435936 ;
+    wikidata:Q289891 wikidata:Q1048 ;
+    foaf:birthday "3/01/-106" ;
+    foaf:name "Cicéron"@fre,
+        "Marcus Tullius Cicero"@lat ;
+    foaf:publications wikidata:Q1055008 .
+
+<http://viaf.org/viaf/100219060> schema:GenderType schema:Male ;
+    schema:author <http://viaf.org/viaf/181179180>,
+        <http://viaf.org/viaf/189367035>,
+        <http://viaf.org/viaf/207939228> ;
+    schema:birthDate "-100" ;
+    schema:birthPlace <http://pleiades.stoa.org/places/393438> ;
+    schema:deathDate "-25" ;
+    schema:deathPlace <http://www.geonames.org/maps/google_41.892_12.511.html> ;
+    schema:hasOccupation wikidata:Q201788,
+        wikidata:Q36180,
+        wikidata:Q864380 ;
+    wikidataProp:P53 wikidata:Q221312 ;
+    foaf:knows <http://viaf.org/viaf/100218993>,
+        <http://viaf.org/viaf/178490045>,
+        <http://viaf.org/viaf/78769600> ;
+    foaf:name "Cornelius Nepos"@fre .
+
+<http://viaf.org/viaf/104162705> schema:birthPlace <http://pleiades.stoa.org/places/413013> ;
+    schema:deathDate "-35" ;
+    schema:deathPlace <http://pleiades.stoa.org/places/423025> ;
+    schema:workLocation <http://pleiades.stoa.org/places/423025> ;
+    foaf:birthday "-86"@fre ;
+    foaf:name "Salluste"@fre,
+        "Gaius Sallustius Crispus"@lat .
+
+<http://viaf.org/viaf/106388020> schema:birthPlace <http://pleiades.stoa.org/places/423025> ;
+    schema:deathDate "-54" ;
+    foaf:birthday "-94" ;
+    foaf:name "Lucrèce"@fre,
+        "Titus Lucretius Carus"@lat .
+
+<http://viaf.org/viaf/18013086> dbpedia:placeOfBurial <http://pleiades.stoa.org/places/422863> ;
+    dbpedia:residence <http://pleiades.stoa.org/places/971691208> ;
+    dc:identifier <urn:cts:latinLit:phi1221> ;
+    schema:birthDate "23/09/-63" ;
+    schema:birthPlace <http://pleiades.stoa.org/places/423025> ;
+    schema:children <http://viaf.org/viaf/316751293>,
+        <http://viaf.org/viaf/56580498>,
+        <http://viaf.org/viaf/58081943>,
+        <http://viaf.org/viaf/89600176> ;
+    schema:colleague <http://viaf.org/viaf/11492581>,
+        <http://viaf.org/viaf/4911148947867154950004> ;
+    schema:deathDate "08/19/14" ;
+    schema:deathPlace <http://pleiades.stoa.org/places/432981> ;
+    schema:hasOccupation wikidata:Q725434,
+        wikidata:Q83204 ;
+    schema:jobTitle "Princeps civitatis"@lat ;
+    schema:nationality <http://pleiades.stoa.org/places/837078212> ;
+    schema:parent wikidata:Q1048 ;
+    schema:sponsor <http://viaf.org/viaf/100227522>,
+        <http://viaf.org/viaf/8194433> ;
+    foaf:name "Caius Octavius"@lat .
+
+<http://viaf.org/viaf/298310776> pschema:hasOccupation wikidata:Q36180,
+        wikidata:Q49757 ;
+    schema:address <http://pleiades.stoa.org/places/383781> ;
+    schema:affiliation "Novi Poetae"@lat ;
+    schema:birthDate "-84"@fre ;
+    schema:birthPlace <http://pleiades.stoa.org/places/383816> ;
+    schema:deathDate "-54" ;
+    schema:deathPlace <http://pleiades.stoa.org/places/423025> ;
+    schema:knows <http://viaf.org/viaf/100219060>,
+        <http://viaf.org/viaf/286265178>,
+        <http://viaf.org/viaf/32386508>,
+        <http://viaf.org/viaf/78769600>,
+        <http://viaf.org/viaf/88642691>,
+        wikidata:Q1235482,
+        "Juventius"@lat ;
+    schema:relatedTo wikidata:Q1429412 ;
+    foaf:name "Catulle"@fre,
+        "Catullus"@lat ;
+    foaf:publications <http://viaf.org/processed/BNF%7C14483957> .
+
+<http://viaf.org/viaf/36906810> schema:sponsor <http://viaf.org/viaf/8194433> .
+
+<http://viaf.org/viaf/66462281> schema:birthDate "-254" ;
+    schema:birthPlace <http://pleiades.stoa.org/places/413306> ;
+    schema:deathDate <http://pleiades.stoa.org/places/423025>,
+        "-184" ;
+    schema:hasOccupation wikidata:Q154549,
+        wikidata:Q482980,
+        wikidata:Q500251 ;
+    foaf:name "Plaute"@fre,
+        "Titus Maccius Plautus"@lat ;
+    foaf:publications <http://viaf.org/viaf/174822889/>,
+        <http://viaf.org/viaf/176788865/>,
+        <http://viaf.org/viaf/177333620/>,
+        <http://viaf.org/viaf/181526271/>,
+        <http://viaf.org/viaf/186138325/>,
+        <http://viaf.org/viaf/273381689/>,
+        <http://viaf.org/viaf/275023762/>,
+        wikidata:Q2523113,
+        wikidata:Q798026 .
+
+<http://viaf.org/viaf/88342447> dc:identifier wikidata:Q7198 ;
+    schema:birthPlace <http://pleiades.stoa.org/places/413019> ;
+    schema:deathPlace <http://pleiades.stoa.org/places/217016> ;
+    schema:givenName "Naso"@lat ;
+    schema:memberOf wikidata:Q122166 ;
+    schema:relatedTo wikidata:Q1405 ;
+    schema:spouse "Fabia"@lat ;
+    schema:workLocation <http://www.geonames.org/maps/google_37.979_23.716.html> ;
+    foaf:Group wikidata:Q122166 ;
+    foaf:name "Ovide"@fre .
+
+wikidata:Q229871 relationship:spouseOf wikidata:Q1411 .
+
+wikidata:Q48235 foaf:topic_interest <http://viaf.org/viaf/90637919> .
+
+<http://viaf.org/viaf/100226923> pschema:hasOccupation wikidata:Q15686806,
+        wikidata:Q201788 ;
+    schema:about wikidata:Q48235 ;
+    schema:author <http://viaf.org/viaf/174131919>,
+        <http://viaf.org/viaf/306068107> ;
+    schema:birthDate "58" ;
+    schema:birthPlace <http://pleiades.stoa.org/places/981537> ;
+    schema:deathDate "120" ;
+    schema:follows <http://viaf.org/viaf/104162705>,
+        <http://viaf.org/viaf/78769600>,
+        <http://viaf.org/viaf/99942145> ;
+    schema:member wikidata:Q122166,
+        wikidata:Q303593 ;
+    schema:relatedTo <http://viaf.org/viaf/12290061> ;
+    schema:winner wikidata:Q2282528 ;
+    foaf:name "Tacite"@fre,
+        "Publius Cornelius Tacitus"@lat .
+
+<http://viaf.org/viaf/100227522> schema:additionalName "Quintus Horatius Flaccus"@lat ;
+    schema:affiliation wikidata:Q122166 ;
+    schema:alumniOf <http://viaf.org/viaf/76207567> ;
+    schema:birthPlace <http://pleiades.stoa.org/places/442847> ;
+    schema:deathDate "00/11/-0008" ;
+    schema:deathPlace <http://pleiades.stoa.org/places/423025> ;
+    schema:funder <http://viaf.org/viaf/36906810> ;
+    schema:hasOccupation wikidata:Q189430,
+        wikidata:Q20056508,
+        wikidata:Q49757,
+        wikidata:Q849288 ;
+    schema:performerIn wikidata:Q160387,
+        wikidata:Q335330 ;
+    foaf:birthday "12/-0065" ;
+    foaf:name "Horace"@fre ;
+    foaf:publications <http://viaf.org/viaf/177408390>,
+        <http://viaf.org/viaf/179441309>,
+        <http://viaf.org/viaf/181240107> .
+
+<http://viaf.org/viaf/12290061> pschema:hasOccupation wikidata:Q40779 .
+
+<http://viaf.org/viaf/8099277> dbpedia:birthDate "40" ;
+    dbpedia:birthPlace <http://pleiades.stoa.org/places/1027>,
+        <http://pleiades.stoa.org/places/246247>,
+        <http://pleiades.stoa.org/places/981551> ;
+    dbpedia:deathDate "104" ;
+    dbpedia:deathPlace <http://pleiades.stoa.org/places/246247> ;
+    dbpedia:eponym wikidata:Q15139124 ;
+    dbpedia:memberFamily wikidata:Q1429412 ;
+    pschema:hasOccupation wikidata:Q36180,
+        wikidata:Q49757,
+        wikidata:Q849288 ;
+    dc:identifier <urn:cts:latinLit:phi1294> ;
+    schema:funder <http://viaf.org/viaf/83217593>,
+        <http://viaf.org/viaf/96284078> ;
+    schema:memberOf wikidata:Q122166 ;
+    schema:nationality wikidata:Q1747689 ;
+    wikidataProp:P1412 wikidata:Q397 ;
+    foaf:knows <http://viaf.org/viaf/10638270>,
+        <http://viaf.org/viaf/90637919> ;
+    foaf:name "\"Martial\""@fre,
+        "\"Marcus Valerius Martialis\""@lat .
+
+<http://viaf.org/viaf/90637919> schema:birthDate "-4" ;
+    schema:birthPlace <http://viaf.org/viaf/155934955> ;
+    schema:deathDate "12/04/65" ;
+    relationship:acquaintanceOf wikidata:Q453916 ;
+    relationship:childOf wikidata:Q273671 ;
+    relationship:enemyOf wikidata:Q229871 ;
+    relationship:siblingOf wikidata:Q452194 ;
+    wikidata:Q609016 wikidata:Q1413 ;
+    foaf:Organization wikidata:Q787204 ;
+    foaf:name "Sénèque"@fre,
+        "Lucius Annaeus Seneca"@lat ;
+    foaf:nickname "Sénèque le Philosophe"@fre ;
+    foaf:publications wikidata:Q1180596,
+        wikidata:Q3332727,
+        wikidata:Q720535 .
+
+<http://viaf.org/viaf/286265178> dbpedia:Victory <http://viaf.org/viaf/18018702> ;
+    pschema:hasOccupation wikidata:Q36180,
+        wikidata:Q82955 ;
+    schema:birthDate "-100" ;
+    schema:birthPlace <http://pleiades.stoa.org/places/423025> ;
+    schema:deathDate <http://pleiades.stoa.org/places/423025>,
+        "-44" ;
+    wikidataProp:P1196 wikidata:Q149086 ;
+    wikidataProp:P21 wikidata:Q6581097 ;
+    wikidataProp:P22 wikidata:Q314710 ;
+    wikidataProp:P25 wikidata:Q232725 ;
+    wikidataProp:P39 wikidata:Q21597597,
+        wikidata:Q236885 ;
+    wikidataProp:P40 wikidata:Q1405 ;
+    wikidataProp:P410 wikidata:Q83460 ;
+    wikidataProp:P53 wikidata:Q192841 ;
+    foaf:knows <http://viaf.org/viaf/67762941> ;
+    foaf:name "César"@fre,
+        "Caius Iulius Caesar IV"@lat .
+
+<http://viaf.org/viaf/10638270> pschema:hasOccupation wikidata:Q11704729,
+        wikidata:Q1190123,
+        wikidata:Q15686806,
+        wikidata:Q40348,
+        wikidata:Q629712 ;
+    schema:additionalName <http://viaf.org/viaf/10638270> ;
+    schema:birthDate "61" ;
+    schema:birthPlace <http://pleiades.stoa.org/places/383627> ;
+    schema:creator wikidata:Q1784733,
+        wikidata:Q5369651 ;
+    schema:deathDate "114" ;
+    schema:deathPlace <http://pleiades.stoa.org/places/981512> ;
+    schema:familyName <http://viaf.org/viaf/316584858> ;
+    schema:hasOccupation wikidata:Q172907 ;
+    schema:knows <http://viaf.org/viaf/34451872>,
+        wikidata:Q842606 ;
+    foaf:name "Pline Le Jeune"@fre .
+
+<http://viaf.org/viaf/8194433> schema:TravelAction <http://pleiades.stoa.org/places/579885> ;
+    schema:birthDate "-70" ;
+    schema:birthPlace <http://pleiades.stoa.org/places/383570> ;
+    schema:deathDate "-19" ;
+    schema:deathPlace <http://pleiades.stoa.org/places/442509> ;
+    schema:hasOccupation wikidata:Q482 ;
+    schema:nationality wikidata:Q2277 ;
+    foaf:knows <http://viaf.org/viaf/100227522>,
+        <http://viaf.org/viaf/11381108>,
+        <http://viaf.org/viaf/298310776> ;
+    foaf:name "Virgile"@fre,
+        "Publius Vergilius Maro"@lat ;
+    foaf:topic_interest wikidata:Q395,
+        wikidata:Q5891 .
+
+<http://pleiades.stoa.org/places/423025> dbpedia:politicalLeader <http://viaf.org/viaf/18013086> .
+
