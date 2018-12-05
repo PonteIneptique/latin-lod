@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-12-05">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="urn:cts:latinLit:phi0474" label="urn:cts:latinLit:phi0474">
+        <viz:size value="15.625"></viz:size>
+        <viz:position x="293.79538" y="388.91315"></viz:position>
+        <viz:color r="83" g="179" b="142"></viz:color>
+      </node>
+      <node id="wikidata:Q116440" label="wikidata:Q116440">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="283.28973" y="334.3905"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q220" label="wikidata:Q220">
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="183.86333" y="276.13797"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:316014701" label="viaf:316014701">
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="64.280075" y="-9.603918"></viz:position>
+        <viz:color r="189" g="228" b="220"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0472" label="urn:cts:latinLit:phi0472">
+        <viz:size value="14.375"></viz:size>
+        <viz:position x="140.42274" y="15.87101"></viz:position>
+        <viz:color r="141" g="209" b="189"></viz:color>
+      </node>
+      <node id="viaf:174707607" label="viaf:174707607">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="129.33551" y="16.556753"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="viaf:313680866" label="viaf:313680866">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="433.64792" y="-281.18506"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0690" label="urn:cts:latinLit:phi0690">
+        <viz:size value="15.625"></viz:size>
+        <viz:position x="445.13858" y="-285.84576"></viz:position>
+        <viz:color r="95" g="189" b="156"></viz:color>
+      </node>
+      <node id="liber spectaculorum" label="liber spectaculorum">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-168.72107" y="285.662"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi1294" label="urn:cts:latinLit:phi1294">
+        <viz:size value="14.375"></viz:size>
+        <viz:position x="-179.38063" y="287.73737"></viz:position>
+        <viz:color r="141" g="209" b="189"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi1294.phi002" label="urn:cts:latinLit:phi1294.phi002">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-184.24165" y="277.2799"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="unr:cts:latinLit:phi0448" label="unr:cts:latinLit:phi0448">
+        <viz:size value="15.625"></viz:size>
+        <viz:position x="165.63814" y="-195.85483"></viz:position>
+        <viz:color r="83" g="179" b="142"></viz:color>
+      </node>
+      <node id="viaf:316867971" label="viaf:316867971">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="132.98288" y="-163.56102"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q370" label="wikidata:Q370">
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="40.8752" y="-2.4932215"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi1017" label="urn:cts:latinLit:phi1017">
+        <viz:size value="15.625"></viz:size>
+        <viz:position x="70.99077" y="194.58112"></viz:position>
+        <viz:color r="83" g="179" b="142"></viz:color>
+      </node>
+      <node id="wikidata:Q397" label="wikidata:Q397">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="48.755688" y="156.5023"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:183081221" label="viaf:183081221">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="421.99973" y="-353.81195"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0550" label="urn:cts:latinLit:phi0550">
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="0.001901306" y="0.02157284"></viz:position>
+        <viz:color r="95" g="189" b="156"></viz:color>
+      </node>
+      <node id="Ovide" label="Ovide">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-16.040874" y="-5.2591953"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:181860567" label="viaf:181860567">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="455.6802" y="-344.65048"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q2998020" label="wikidata:Q2998020">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="83.74487" y="142.43259"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:186835608" label="viaf:186835608">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="241.27414" y="371.40424"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="50" label="50">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="387.32736" y="-310.01422"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="pleiades:246247" label="pleiades:246247">
+        <viz:size value="11.25"></viz:size>
+        <viz:position x="-321.0038" y="390.2548"></viz:position>
+        <viz:color r="205" g="235" b="230"></viz:color>
+      </node>
+      <node id="geonames:3127047" label="geonames:3127047">
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-348.13254" y="400.7478"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0660" label="urn:cts:latinLit:phi0660">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-298.72604" y="-64.57734"></viz:position>
+        <viz:color r="0" g="109" b="44"></viz:color>
+      </node>
+      <node id="pleiades:217016" label="pleiades:217016">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-205.15556" y="-102.56735"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0893" label="urn:cts:latinLit:phi0893">
+        <viz:size value="15.625"></viz:size>
+        <viz:position x="-45.653255" y="-262.18555"></viz:position>
+        <viz:color r="83" g="179" b="142"></viz:color>
+      </node>
+      <node id="pleiades:423025" label="pleiades:423025">
+        <viz:size value="13.75"></viz:size>
+        <viz:position x="-22.103691" y="-78.47084"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0134" label="urn:cts:latinLit:phi0134">
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="2.7692833" y="-83.93949"></viz:position>
+        <viz:color r="205" g="235" b="230"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0119" label="urn:cts:latinLit:phi0119">
+        <viz:size value="11.875"></viz:size>
+        <viz:position x="-63.73078" y="-34.680866"></viz:position>
+        <viz:color r="173" g="222" b="210"></viz:color>
+      </node>
+      <node id="viaf:137842517" label="viaf:137842517">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="500.62396" y="-250.90747"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:152361066" label="viaf:152361066">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="124.24713" y="52.277275"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q373189" label="wikidata:Q373189">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="181.35793" y="27.40513"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="38" label="38">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-132.91954" y="299.03333"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="50 av.JC" label="50 av.JC">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-203.94096" y="-43.008606"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:ctslatinLit:phi0838" label="urn:ctslatinLit:phi0838">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-263.21866" y="650.1934"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Ie siècle avant JC" label="Ie siècle avant JC">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-264.99884" y="646.9983"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q17167" label="wikidata:Q17167">
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="56.877426" y="-34.3674"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi1348" label="urn:cts:latinLit:phi1348">
+        <viz:size value="15.0"></viz:size>
+        <viz:position x="-88.71991" y="-620.7532"></viz:position>
+        <viz:color r="109" g="197" b="169"></viz:color>
+      </node>
+      <node id="wikidata:Q2277" label="wikidata:Q2277">
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-70.288536" y="-458.74335"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q25297" label="wikidata:Q25297">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="128.3752" y="174.46478"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0122" label="urn:cts:latinLit:phi0122">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.807493" y="666.61664"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Maccius" label="Maccius">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.234985" y="662.9587"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:ctslatinLit:phi0840" label="urn:ctslatinLit:phi0840">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="537.1513" y="137.17853"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Cornelius" label="Cornelius">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="540.7076" y="135.97105"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Tullius" label="Tullius">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="241.49182" y="422.82324"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Marcus" label="Marcus">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="262.72125" y="456.53168"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0137" label="urn:cts:latinLit:phi0137">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="788.8357" y="-248.31525"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Publius" label="Publius">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="792.2975" y="-249.78827"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Titus" label="Titus">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="16.24857" y="18.115683"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q6581097" label="wikidata:Q6581097">
+        <viz:size value="14.375"></viz:size>
+        <viz:position x="-86.1732" y="87.0067"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0140" label="urn:cts:latinLit:phi0140">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-86.03602" y="99.412674"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="urn:ctslatinLit:phi0837" label="urn:ctslatinLit:phi0837">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-73.27656" y="85.19924"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0121" label="urn:cts:latinLit:phi0121">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-90.616714" y="75.12892"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi1353" label="urn:cts:latinLit:phi1353">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-98.67388" y="90.84954"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi1352" label="urn:cts:latinLit:phi1352">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="608.48846" y="316.55777"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="histoire" label="histoire">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="612.2249" y="316.6242"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Auguste" label="Auguste">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-265.22827" y="-164.42775"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="dbr:Julius_Caesar" label="dbr:Julius_Caesar">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="336.22348" y="338.70273"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="dbr:Mark_Antony" label="dbr:Mark_Antony">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="305.2613" y="456.5326"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Horace" label="Horace">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-388.3181" y="-147.13254"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Lucilia" label="Lucilia">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="9.452889" y="-15.028539"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0135" label="urn:cts:latinLit:phi0135">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="671.3023" y="89.268265"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Scipion Émilien" label="Scipion Émilien">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="674.9695" y="90.11504"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cite:perseus:author.1209" label="urn:cite:perseus:author.1209">
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-272.59833" y="249.29752"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="urn:cite:perseus:author.1318" label="urn:cite:perseus:author.1318">
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-128.13638" y="412.70016"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="viaf:100218993" label="viaf:100218993">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="471.43274" y="-219.45457"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:100219060" label="viaf:100219060">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="181.64445" y="-8.697857"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:18013086" label="viaf:18013086">
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="56.998493" y="-241.91805"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:25977336" label="viaf:25977336">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="431.7836" y="-224.77437"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:286265178" label="viaf:286265178">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="151.33719" y="-22.268368"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:36906810" label="viaf:36906810">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-8.177781" y="-295.55798"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:6224297" label="viaf:6224297">
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="314.42514" y="-242.83763"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:78769600" label="viaf:78769600">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="180.03801" y="58.453533"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:8194433" label="viaf:8194433">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-100.26615" y="-253.31767"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q1413" label="wikidata:Q1413">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="19.274864" y="194.26945"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q168707" label="wikidata:Q168707">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-91.14762" y="-572.4518"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q6197" label="wikidata:Q6197">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-382.56033" y="-8.2136755"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0138" label="urn:cts:latinLit:phi0138">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-753.216" y="-263.2606"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Terentius" label="Terentius">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-756.9783" y="-263.0929"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Elégies" label="Elégies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-408.17502" y="38.45043"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0125" label="urn:cts:latinLit:phi0125">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="641.6171" y="-580.9004"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Le soldat fanfaron" label="Le soldat fanfaron">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="645.015" y="-582.4536"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:176199512" label="viaf:176199512">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-17.272907" y="18.580858"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:177408390" label="viaf:177408390">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-73.837845" y="-317.4624"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:179441309" label="viaf:179441309">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-71.74254" y="-219.858"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:184275759" label="viaf:184275759">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-31.45072" y="-326.12326"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:248145424558486830832" label="viaf:248145424558486830832">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="501.24838" y="-345.33276"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q3791552" label="wikidata:Q3791552">
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-463.41833" y="-262.8832"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="viaf:175560230" label="viaf:175560230">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="127.65236" y="214.44295"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q184742" label="wikidata:Q184742">
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-611.2934" y="-18.335701"></viz:position>
+        <viz:color r="205" g="235" b="230"></viz:color>
+      </node>
+      <node id="wikidata:Q7198" label="wikidata:Q7198">
+        <viz:size value="10.625"></viz:size>
+        <viz:position x="-598.5088" y="-20.236927"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:88751090" label="viaf:88751090">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="196.97108" y="-244.13261"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q122166" label="wikidata:Q122166">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-148.82004" y="-627.4113"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q131306" label="wikidata:Q131306">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="225.89302" y="-156.12822"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="augusta bilbilis" label="augusta bilbilis">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-312.75363" y="397.73178"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="calatayud" label="calatayud">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-356.65128" y="404.49307"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Catulle" label="Catulle">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="217.05545" y="27.711285"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:ctslatinLit:phi0836" label="urn:ctslatinLit:phi0836">
+        <viz:size value="11.875"></viz:size>
+        <viz:position x="-597.9107" y="-519.4974"></viz:position>
+        <viz:color r="173" g="222" b="210"></viz:color>
+      </node>
+      <node id="Celse" label="Celse">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-581.5664" y="-528.5056"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="César" label="César">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="172.0475" y="-273.72644"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Lucrèce" label="Lucrèce">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1.2711937" y="22.070452"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="martial" label="martial">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-200.84404" y="325.31052"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Plaute" label="Plaute">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-76.478516" y="-20.807491"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Pline le jeune" label="Pline le jeune">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-125.31904" y="420.50406"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Quintillen" label="Quintillen">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-280.27698" y="246.53479"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Sénèque" label="Sénèque">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="62.85282" y="267.64734"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Suetone" label="Suetone">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-139.84479" y="-590.36053"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi1351" label="urn:cts:latinLit:phi1351">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-579.5486" y="492.29553"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Tacite" label="Tacite">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-581.0496" y="495.7278"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Térence" label="Térence">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="12.018254" y="-86.64333"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Tibulle" label="Tibulle">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-408.09882" y="-95.49989"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:100227522" label="viaf:100227522">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-108.14782" y="-295.77164"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Virgile" label="Virgile">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="522.6639" y="-297.92554"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Cicéron" label="Cicéron">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="347.53217" y="451.2177"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="le Cicéron de la médecine" label="le Cicéron de la médecine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-614.51526" y="-511.23422"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q49757" label="wikidata:Q49757">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-429.69797" y="-41.873756"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q37484" label="wikidata:Q37484">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-619.94366" y="-17.126421"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0120" label="urn:cts:latinLit:phi0120">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="864.1301" y="94.291794"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Amphitryon" label="Amphitryon">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="867.82056" y="94.8625"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="De Arte medica" label="De Arte medica">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-588.0574" y="-502.80536"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0142" label="urn:cts:latinLit:phi0142">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="626.8591" y="576.22437"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="L’Heautontimoroumenos" label="L’Heautontimoroumenos">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="629.39795" y="579.0118"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q3782570" label="wikidata:Q3782570">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-244.3047" y="12.285625"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q4964182" label="wikidata:Q4964182">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="91.50337" y="242.88597"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0139" label="urn:cts:latinLit:phi0139">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="403.70963" y="-724.6308"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Afer" label="Afer">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="406.47098" y="-727.1954"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0141" label="urn:cts:latinLit:phi0141">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-691.49994" y="269.28925"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Théâtre" label="Théâtre">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-694.5328" y="267.14597"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="agriculture, art militaire, médecine" label="agriculture, art militaire, médecine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-608.20966" y="-535.86426"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="épicurisme" label="épicurisme">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4.9893107" y="40.355022"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="poetry" label="poetry">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-335.01575" y="-161.58809"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q14373" label="wikidata:Q14373">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-310.33728" y="-212.80928"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q18536349" label="wikidata:Q18536349">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-468.10242" y="-268.52588"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q48235" label="wikidata:Q48235">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="32.848938" y="239.33797"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="pleaides:3169070" label="pleaides:3169070">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-79.25736" y="-684.36426"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="foaf:person" label="foaf:person">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="350.2226" y="405.6372"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0123" label="urn:cts:latinLit:phi0123">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="756.2704" y="-64.81036"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="-254" label="-254">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="759.962" y="-65.57457"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="-100" label="-100">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="142.73737" y="-241.57347"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi1354" label="urn:cts:latinLit:phi1354">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-513.34467" y="685.76807"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="58" label="58">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-514.5443" y="689.3342"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="pleaides:305090" label="pleaides:305090">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-35.674866" y="-657.3379"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Gabies" label="Gabies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-292.83804" y="44.09353"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi1356" label="urn:cts:latinLit:phi1356">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-849.0656" y="-53.941578"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Gaule Narbonnaise" label="Gaule Narbonnaise">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-846.11255" y="-51.609158"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0136" label="urn:cts:latinLit:phi0136">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-738.959" y="446.91153"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="pleiades:314921" label="pleiades:314921">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-742.45825" y="448.2953"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="pleiades:413306" label="pleiades:413306">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-79.94583" y="-42.209476"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:ctslatinLit:phi0839" label="urn:ctslatinLit:phi0839">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="398.96066" y="750.65265"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Vérone" label="Vérone">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="402.55527" y="751.608"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="3 janvier 106 av. J.C." label="3 janvier 106 av. J.C.">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="372.2815" y="373.99765"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="-184" label="-184">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-54.340855" y="-20.572485"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi1355" label="urn:cts:latinLit:phi1355">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="214.71367" y="-815.0967"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="120" label="120">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="215.37143" y="-818.8048"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:ctslatinLit:phi0841" label="urn:ctslatinLit:phi0841">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-828.2687" y="149.52713"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Ie siècle après JC" label="Ie siècle après JC">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-831.9769" y="149.15149"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi1357" label="urn:cts:latinLit:phi1357">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3.4819453" y="856.50977"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Empire romain" label="Empire romain">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-6.53683" y="854.4003"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="pleiades:445545537" label="pleiades:445545537">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="187.43668" y="-144.62505"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:ctslatinLit:phi0842" label="urn:ctslatinLit:phi0842">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-265.43893" y="821.4729"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="polygraphe" label="polygraphe">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-266.3379" y="817.91406"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi1360" label="urn:cts:latinLit:phi1360">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-30.429193" y="-84.50428"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi1359" label="urn:cts:latinLit:phi1359">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="206.68729" y="812.3397"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="historien" label="historien">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="206.63412" y="808.6222"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Rome Antique" label="Rome Antique">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-345.51205" y="46.107964"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi0124" label="urn:cts:latinLit:phi0124">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="798.03925" y="358.5686"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="auteur comique" label="auteur comique">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="801.1879" y="360.22693"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:67910474" label="viaf:67910474">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="222.15265" y="-203.82233"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Suetonius Laetus" label="Suetonius Laetus">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-81.711464" y="-630.0885"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="urn:cts:latinLit:phi1358" label="urn:cts:latinLit:phi1358">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-378.1077" y="-810.9126"></viz:position>
+        <viz:color r="221" g="241" b="240"></viz:color>
+      </node>
+      <node id="Julia Agricola" label="Julia Agricola">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-375.20013" y="-813.29755"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="wikidata:Q1427" label="wikidata:Q1427">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-30.54382" y="-609.76544"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="viaf:293152251" label="viaf:293152251">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-127.58279" y="-673.54224"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="151" source="urn:cts:latinLit:phi0474" target="wikidata:Q116440" label="dbpedia:birthPlace"></edge>
+      <edge id="152" source="urn:cts:latinLit:phi0474" target="wikidata:Q220" label="dbpedia:deathPlace"></edge>
+      <edge id="153" source="viaf:316014701" target="urn:cts:latinLit:phi0472" label="dc:creator"></edge>
+      <edge id="154" source="viaf:174707607" target="urn:cts:latinLit:phi0472" label="dc:creator"></edge>
+      <edge id="155" source="viaf:313680866" target="urn:cts:latinLit:phi0690" label="dc:creator"></edge>
+      <edge id="156" source="liber spectaculorum" target="urn:cts:latinLit:phi1294" label="dc:creator"></edge>
+      <edge id="157" source="urn:cts:latinLit:phi1294.phi002" target="urn:cts:latinLit:phi1294" label="dc:creator"></edge>
+      <edge id="158" source="unr:cts:latinLit:phi0448" target="viaf:316867971" label="dc:creator"></edge>
+      <edge id="159" source="viaf:316014701" target="wikidata:Q370" label="dc:language"></edge>
+      <edge id="160" source="urn:cts:latinLit:phi1017" target="wikidata:Q397" label="dc:language"></edge>
+      <edge id="161" source="urn:cts:latinLit:phi0690" target="viaf:183081221" label="dct:created"></edge>
+      <edge id="162" source="urn:cts:latinLit:phi0550" target="Ovide" label="dct:isReferencedBy"></edge>
+      <edge id="163" source="urn:cts:latinLit:phi0690" target="viaf:181860567" label="dct:isReferencedBy"></edge>
+      <edge id="164" source="urn:cts:latinLit:phi0550" target="wikidata:Q370" label="dct:language"></edge>
+      <edge id="165" source="urn:cts:latinLit:phi1017" target="wikidata:Q2998020" label="dct:provenance"></edge>
+      <edge id="166" source="urn:cts:latinLit:phi0474" target="viaf:186835608" label="dcterms:creator"></edge>
+      <edge id="167" source="urn:cts:latinLit:phi0690" target="50" label="foaf:age"></edge>
+      <edge id="168" source="pleiades:246247" target="geonames:3127047" label="foaf:based_near"></edge>
+      <edge id="169" source="urn:cts:latinLit:phi0660" target="pleiades:217016" label="foaf:based_near"></edge>
+      <edge id="170" source="urn:cts:latinLit:phi1294" target="pleiades:246247" label="foaf:based_near"></edge>
+      <edge id="171" source="urn:cts:latinLit:phi0893" target="pleiades:423025" label="foaf:based_near"></edge>
+      <edge id="172" source="urn:cts:latinLit:phi0550" target="pleiades:423025" label="foaf:based_near"></edge>
+      <edge id="173" source="urn:cts:latinLit:phi0660" target="pleiades:423025" label="foaf:based_near"></edge>
+      <edge id="174" source="urn:cts:latinLit:phi0134" target="pleiades:423025" label="foaf:based_near"></edge>
+      <edge id="175" source="urn:cts:latinLit:phi0119" target="pleiades:423025" label="foaf:based_near"></edge>
+      <edge id="176" source="urn:cts:latinLit:phi0690" target="viaf:137842517" label="foaf:based_near"></edge>
+      <edge id="177" source="urn:cts:latinLit:phi0472" target="viaf:152361066" label="foaf:based_near"></edge>
+      <edge id="178" source="urn:cts:latinLit:phi1017" target="wikidata:Q220" label="foaf:based_near"></edge>
+      <edge id="179" source="urn:cts:latinLit:phi0472" target="wikidata:Q373189" label="foaf:based_near"></edge>
+      <edge id="180" source="urn:cts:latinLit:phi1294" target="38" label="foaf:birthday"></edge>
+      <edge id="181" source="urn:cts:latinLit:phi0660" target="50 av.JC" label="foaf:birthday"></edge>
+      <edge id="182" source="urn:ctslatinLit:phi0838" target="Ie siècle avant JC" label="foaf:birthday"></edge>
+      <edge id="183" source="urn:cts:latinLit:phi0893" target="wikidata:Q17167" label="foaf:birthday"></edge>
+      <edge id="184" source="viaf:316014701" target="wikidata:Q17167" label="foaf:birthday"></edge>
+      <edge id="185" source="urn:cts:latinLit:phi1348" target="wikidata:Q2277" label="foaf:birthday"></edge>
+      <edge id="186" source="urn:cts:latinLit:phi1017" target="wikidata:Q25297" label="foaf:birthday"></edge>
+      <edge id="187" source="urn:cts:latinLit:phi0122" target="Maccius" label="foaf:family_name"></edge>
+      <edge id="188" source="urn:ctslatinLit:phi0840" target="Cornelius" label="foaf:familyName"></edge>
+      <edge id="189" source="urn:cts:latinLit:phi0474" target="Tullius" label="foaf:familyName"></edge>
+      <edge id="190" source="urn:cts:latinLit:phi0474" target="Marcus" label="foaf:firstName"></edge>
+      <edge id="191" source="urn:cts:latinLit:phi0137" target="Publius" label="foaf:firstName"></edge>
+      <edge id="192" source="urn:cts:latinLit:phi0550" target="Titus" label="foaf:firstName"></edge>
+      <edge id="193" source="urn:cts:latinLit:phi1017" target="wikidata:Q6581097" label="foaf:gender"></edge>
+      <edge id="194" source="urn:cts:latinLit:phi0550" target="wikidata:Q6581097" label="foaf:gender"></edge>
+      <edge id="195" source="urn:cts:latinLit:phi0140" target="wikidata:Q6581097" label="foaf:gender"></edge>
+      <edge id="196" source="urn:ctslatinLit:phi0837" target="wikidata:Q6581097" label="foaf:gender"></edge>
+      <edge id="197" source="urn:cts:latinLit:phi0121" target="wikidata:Q6581097" label="foaf:gender"></edge>
+      <edge id="198" source="urn:cts:latinLit:phi1294" target="wikidata:Q6581097" label="foaf:gender"></edge>
+      <edge id="199" source="urn:cts:latinLit:phi0660" target="wikidata:Q6581097" label="foaf:gender"></edge>
+      <edge id="200" source="urn:cts:latinLit:phi1353" target="wikidata:Q6581097" label="foaf:gender"></edge>
+      <edge id="201" source="urn:cts:latinLit:phi1352" target="histoire" label="foaf:interest"></edge>
+      <edge id="202" source="urn:cts:latinLit:phi0660" target="Auguste" label="foaf:knows"></edge>
+      <edge id="203" source="urn:cts:latinLit:phi0474" target="dbr:Julius_Caesar" label="foaf:knows"></edge>
+      <edge id="204" source="urn:cts:latinLit:phi0474" target="dbr:Mark_Antony" label="foaf:knows"></edge>
+      <edge id="205" source="urn:cts:latinLit:phi0660" target="Horace" label="foaf:knows"></edge>
+      <edge id="206" source="urn:cts:latinLit:phi0550" target="Lucilia" label="foaf:knows"></edge>
+      <edge id="207" source="urn:cts:latinLit:phi0135" target="Scipion Émilien" label="foaf:knows"></edge>
+      <edge id="208" source="urn:cts:latinLit:phi1294" target="urn:cite:perseus:author.1209" label="foaf:knows"></edge>
+      <edge id="209" source="urn:cts:latinLit:phi1294" target="urn:cite:perseus:author.1318" label="foaf:knows"></edge>
+      <edge id="210" source="urn:cts:latinLit:phi0690" target="viaf:100218993" label="foaf:knows"></edge>
+      <edge id="211" source="urn:cts:latinLit:phi0472" target="viaf:100219060" label="foaf:knows"></edge>
+      <edge id="212" source="urn:cts:latinLit:phi0893" target="viaf:18013086" label="foaf:knows"></edge>
+      <edge id="213" source="unr:cts:latinLit:phi0448" target="viaf:18013086" label="foaf:knows"></edge>
+      <edge id="214" source="urn:cts:latinLit:phi0690" target="viaf:25977336" label="foaf:knows"></edge>
+      <edge id="215" source="urn:cts:latinLit:phi0472" target="viaf:286265178" label="foaf:knows"></edge>
+      <edge id="216" source="urn:cts:latinLit:phi0893" target="viaf:36906810" label="foaf:knows"></edge>
+      <edge id="217" source="urn:cts:latinLit:phi0690" target="viaf:6224297" label="foaf:knows"></edge>
+      <edge id="218" source="urn:cts:latinLit:phi0472" target="viaf:78769600" label="foaf:knows"></edge>
+      <edge id="219" source="urn:cts:latinLit:phi0893" target="viaf:8194433" label="foaf:knows"></edge>
+      <edge id="220" source="urn:cts:latinLit:phi1017" target="wikidata:Q1413" label="foaf:knows"></edge>
+      <edge id="221" source="urn:cts:latinLit:phi1348" target="wikidata:Q168707" label="foaf:knows"></edge>
+      <edge id="222" source="urn:cts:latinLit:phi0660" target="wikidata:Q6197" label="foaf:knows"></edge>
+      <edge id="223" source="urn:cts:latinLit:phi0138" target="Terentius" label="foaf:lastName"></edge>
+      <edge id="224" source="urn:cts:latinLit:phi0660" target="Elégies" label="foaf:made"></edge>
+      <edge id="225" source="urn:cts:latinLit:phi0125" target="Le soldat fanfaron" label="foaf:made"></edge>
+      <edge id="226" source="urn:cts:latinLit:phi0550" target="viaf:176199512" label="foaf:made"></edge>
+      <edge id="227" source="urn:cts:latinLit:phi0893" target="viaf:177408390" label="foaf:made"></edge>
+      <edge id="228" source="urn:cts:latinLit:phi0893" target="viaf:179441309" label="foaf:made"></edge>
+      <edge id="229" source="urn:cts:latinLit:phi0893" target="viaf:184275759" label="foaf:made"></edge>
+      <edge id="230" source="urn:cts:latinLit:phi0690" target="viaf:248145424558486830832" label="foaf:made"></edge>
+      <edge id="231" source="urn:cts:latinLit:phi0660" target="wikidata:Q3791552" label="foaf:made"></edge>
+      <edge id="232" source="urn:cts:latinLit:phi1017" target="viaf:175560230" label="foaf:maker"></edge>
+      <edge id="233" source="wikidata:Q184742" target="wikidata:Q7198" label="foaf:maker"></edge>
+      <edge id="234" source="unr:cts:latinLit:phi0448" target="viaf:88751090" label="foaf:member"></edge>
+      <edge id="235" source="urn:cts:latinLit:phi1348" target="wikidata:Q122166" label="foaf:member"></edge>
+      <edge id="236" source="unr:cts:latinLit:phi0448" target="wikidata:Q131306" label="foaf:member"></edge>
+      <edge id="237" source="urn:cts:latinLit:phi0893" target="wikidata:Q2277" label="foaf:member"></edge>
+      <edge id="238" source="pleiades:246247" target="augusta bilbilis" label="foaf:name"></edge>
+      <edge id="239" source="geonames:3127047" target="calatayud" label="foaf:name"></edge>
+      <edge id="240" source="urn:cts:latinLit:phi0472" target="Catulle" label="foaf:name"></edge>
+      <edge id="241" source="urn:ctslatinLit:phi0836" target="Celse" label="foaf:name"></edge>
+      <edge id="242" source="unr:cts:latinLit:phi0448" target="César" label="foaf:name"></edge>
+      <edge id="243" source="urn:cts:latinLit:phi0550" target="Lucrèce" label="foaf:name"></edge>
+      <edge id="244" source="urn:cts:latinLit:phi1294" target="martial" label="foaf:name"></edge>
+      <edge id="245" source="urn:cts:latinLit:phi0119" target="Plaute" label="foaf:name"></edge>
+      <edge id="246" source="urn:cite:perseus:author.1318" target="Pline le jeune" label="foaf:name"></edge>
+      <edge id="247" source="urn:cite:perseus:author.1209" target="Quintillen" label="foaf:name"></edge>
+      <edge id="248" source="urn:cts:latinLit:phi1017" target="Sénèque" label="foaf:name"></edge>
+      <edge id="249" source="urn:cts:latinLit:phi1348" target="Suetone" label="foaf:name"></edge>
+      <edge id="250" source="urn:cts:latinLit:phi1351" target="Tacite" label="foaf:name"></edge>
+      <edge id="251" source="urn:cts:latinLit:phi0134" target="Térence" label="foaf:name"></edge>
+      <edge id="252" source="urn:cts:latinLit:phi0660" target="Tibulle" label="foaf:name"></edge>
+      <edge id="253" source="urn:cts:latinLit:phi0893" target="viaf:100227522" label="foaf:name"></edge>
+      <edge id="254" source="urn:cts:latinLit:phi0690" target="Virgile" label="foaf:name"></edge>
+      <edge id="255" source="urn:cts:latinLit:phi0660" target="wikidata:Q7198" label="foaf:name"></edge>
+      <edge id="256" source="urn:cts:latinLit:phi0474" target="Cicéron" label="foaf:nick"></edge>
+      <edge id="257" source="urn:ctslatinLit:phi0836" target="le Cicéron de la médecine" label="foaf:nick"></edge>
+      <edge id="258" source="urn:cts:latinLit:phi0660" target="wikidata:Q49757" label="foaf:Organization"></edge>
+      <edge id="259" source="wikidata:Q184742" target="wikidata:Q37484" label="foaf:primaryTopic"></edge>
+      <edge id="260" source="urn:cts:latinLit:phi0120" target="Amphitryon" label="foaf:publications"></edge>
+      <edge id="261" source="urn:ctslatinLit:phi0836" target="De Arte medica" label="foaf:publications"></edge>
+      <edge id="262" source="urn:cts:latinLit:phi0142" target="L’Heautontimoroumenos" label="foaf:publications"></edge>
+      <edge id="263" source="urn:cts:latinLit:phi0660" target="wikidata:Q3782570" label="foaf:publications"></edge>
+      <edge id="264" source="urn:cts:latinLit:phi1017" target="wikidata:Q4964182" label="foaf:status"></edge>
+      <edge id="265" source="urn:cts:latinLit:phi0139" target="Afer" label="foaf:surname"></edge>
+      <edge id="266" source="urn:cts:latinLit:phi0141" target="Théâtre" label="foaf:theme"></edge>
+      <edge id="267" source="urn:ctslatinLit:phi0836" target="agriculture, art militaire, médecine" label="foaf:topic_interest"></edge>
+      <edge id="268" source="urn:cts:latinLit:phi0550" target="épicurisme" label="foaf:topic_interest"></edge>
+      <edge id="269" source="urn:cts:latinLit:phi0660" target="poetry" label="foaf:topic_interest"></edge>
+      <edge id="270" source="urn:cts:latinLit:phi0660" target="wikidata:Q14373" label="foaf:topic_interest"></edge>
+      <edge id="271" source="wikidata:Q3791552" target="wikidata:Q18536349" label="foaf:topic_interest"></edge>
+      <edge id="272" source="urn:cts:latinLit:phi1017" target="wikidata:Q48235" label="foaf:topic_interest"></edge>
+      <edge id="273" source="urn:cts:latinLit:phi1348" target="pleaides:3169070" label="lived in"></edge>
+      <edge id="274" source="urn:cts:latinLit:phi0474" target="foaf:person" label="rdf:type"></edge>
+      <edge id="275" source="urn:cts:latinLit:phi0123" target="-254" label="schema:birthDate"></edge>
+      <edge id="276" source="unr:cts:latinLit:phi0448" target="-100" label="schema:birthDate"></edge>
+      <edge id="277" source="urn:cts:latinLit:phi1354" target="58" label="schema:birthDate"></edge>
+      <edge id="278" source="urn:cts:latinLit:phi1348" target="pleaides:305090" label="schema:birthPlace"></edge>
+      <edge id="279" source="urn:cts:latinLit:phi0660" target="Gabies" label="Schema:birthplace"></edge>
+      <edge id="280" source="urn:cts:latinLit:phi1356" target="Gaule Narbonnaise" label="schema:birthPlace"></edge>
+      <edge id="281" source="urn:cts:latinLit:phi0136" target="pleiades:314921" label="schema:birthPlace"></edge>
+      <edge id="282" source="urn:cts:latinLit:phi0119" target="pleiades:413306" label="schema:birthPlace"></edge>
+      <edge id="283" source="unr:cts:latinLit:phi0448" target="pleiades:423025" label="schema:birthPlace"></edge>
+      <edge id="284" source="urn:ctslatinLit:phi0839" target="Vérone" label="schema:birthPlace"></edge>
+      <edge id="285" source="urn:cts:latinLit:phi0474" target="3 janvier 106 av. J.C." label="schema:brithDate"></edge>
+      <edge id="286" source="unr:cts:latinLit:phi0448" target="viaf:6224297" label="schema:colleague"></edge>
+      <edge id="287" source="urn:cts:latinLit:phi0119" target="-184" label="schema:deathDate"></edge>
+      <edge id="288" source="urn:cts:latinLit:phi1355" target="120" label="schema:deathDate"></edge>
+      <edge id="289" source="urn:ctslatinLit:phi0841" target="Ie siècle après JC" label="schema:deathDate"></edge>
+      <edge id="290" source="urn:cts:latinLit:phi1357" target="Empire romain" label="schema:deathPlace"></edge>
+      <edge id="291" source="unr:cts:latinLit:phi0448" target="pleiades:445545537" label="schema:funder"></edge>
+      <edge id="292" source="urn:ctslatinLit:phi0842" target="polygraphe" label="schema:hasOccupation"></edge>
+      <edge id="293" source="urn:cts:latinLit:phi1360" target="pleiades:423025" label="schema:homeLocation"></edge>
+      <edge id="294" source="urn:cts:latinLit:phi1359" target="historien" label="schema:jobTitle"></edge>
+      <edge id="295" source="urn:cts:latinLit:phi0660" target="Rome Antique" label="schema:nationality"></edge>
+      <edge id="296" source="urn:cts:latinLit:phi0124" target="auteur comique" label="schema:Occupation"></edge>
+      <edge id="297" source="unr:cts:latinLit:phi0448" target="viaf:67910474" label="schema:parent"></edge>
+      <edge id="298" source="Suetonius Laetus" target="urn:cts:latinLit:phi1348" label="schema:parents"></edge>
+      <edge id="299" source="urn:cts:latinLit:phi1358" target="Julia Agricola" label="schema:spouse"></edge>
+      <edge id="300" source="urn:cts:latinLit:phi1348" target="wikidata:Q1427" label="schema:worksFor"></edge>
+      <edge id="301" source="urn:cts:latinLit:phi1348" target="viaf:293152251" label="schema:WriteAction"></edge>
+    </edges>
+  </graph>
+</gexf>
