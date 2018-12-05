@@ -1,0 +1,152 @@
+Source,Label,Target
+urn:cts:latinLit:phi0474,dbpedia:birthPlace,wikidata:Q116440
+urn:cts:latinLit:phi0474,dbpedia:deathPlace,wikidata:Q220
+viaf:316014701,dc:creator,urn:cts:latinLit:phi0472
+viaf:174707607,dc:creator,urn:cts:latinLit:phi0472
+viaf:313680866,dc:creator,urn:cts:latinLit:phi0690
+liber spectaculorum,dc:creator,urn:cts:latinLit:phi1294
+urn:cts:latinLit:phi1294.phi002,dc:creator,urn:cts:latinLit:phi1294
+unr:cts:latinLit:phi0448,dc:creator,viaf:316867971
+viaf:316014701,dc:language,wikidata:Q370
+urn:cts:latinLit:phi1017,dc:language,wikidata:Q397
+urn:cts:latinLit:phi0690,dct:created,viaf:183081221
+urn:cts:latinLit:phi0550,dct:isReferencedBy,Ovide
+urn:cts:latinLit:phi0690,dct:isReferencedBy,viaf:181860567
+urn:cts:latinLit:phi0550,dct:language,wikidata:Q370
+urn:cts:latinLit:phi1017,dct:provenance,wikidata:Q2998020
+urn:cts:latinLit:phi0474,dcterms:creator,viaf:186835608
+urn:cts:latinLit:phi0690,foaf:age,50
+pleiades:246247,foaf:based_near,geonames:3127047
+urn:cts:latinLit:phi0660,foaf:based_near,pleiades:217016
+urn:cts:latinLit:phi1294,foaf:based_near,pleiades:246247
+urn:cts:latinLit:phi0893,foaf:based_near,pleiades:423025
+urn:cts:latinLit:phi0550,foaf:based_near,pleiades:423025
+urn:cts:latinLit:phi0660,foaf:based_near,pleiades:423025
+urn:cts:latinLit:phi0134,foaf:based_near,pleiades:423025
+urn:cts:latinLit:phi0119,foaf:based_near,pleiades:423025
+urn:cts:latinLit:phi0690,foaf:based_near,viaf:137842517
+urn:cts:latinLit:phi0472,foaf:based_near,viaf:152361066
+urn:cts:latinLit:phi1017,foaf:based_near,wikidata:Q220
+urn:cts:latinLit:phi0472,foaf:based_near,wikidata:Q373189
+urn:cts:latinLit:phi1294,foaf:birthday,38
+urn:cts:latinLit:phi0660,foaf:birthday,50 av.JC
+urn:ctslatinLit:phi0838,foaf:birthday,Ie siècle avant JC
+urn:cts:latinLit:phi0893,foaf:birthday,wikidata:Q17167
+viaf:316014701,foaf:birthday,wikidata:Q17167
+urn:cts:latinLit:phi1348,foaf:birthday,wikidata:Q2277
+urn:cts:latinLit:phi1017,foaf:birthday,wikidata:Q25297
+urn:cts:latinLit:phi0122,foaf:family_name,Maccius
+urn:ctslatinLit:phi0840,foaf:familyName,Cornelius
+urn:cts:latinLit:phi0474,foaf:familyName,Tullius
+urn:cts:latinLit:phi0474,foaf:firstName,Marcus
+urn:cts:latinLit:phi0137,foaf:firstName,Publius
+urn:cts:latinLit:phi0550,foaf:firstName,Titus
+urn:cts:latinLit:phi1017,foaf:gender,wikidata:Q6581097
+urn:cts:latinLit:phi0550,foaf:gender,wikidata:Q6581097
+urn:cts:latinLit:phi0140,foaf:gender,wikidata:Q6581097
+urn:ctslatinLit:phi0837,foaf:gender,wikidata:Q6581097
+urn:cts:latinLit:phi0121,foaf:gender,wikidata:Q6581097
+urn:cts:latinLit:phi1294,foaf:gender,wikidata:Q6581097
+urn:cts:latinLit:phi0660,foaf:gender,wikidata:Q6581097
+urn:cts:latinLit:phi1353,foaf:gender,wikidata:Q6581097
+urn:cts:latinLit:phi1352,foaf:interest,histoire
+urn:cts:latinLit:phi0660,foaf:knows,Auguste
+urn:cts:latinLit:phi0474,foaf:knows,dbr:Julius_Caesar
+urn:cts:latinLit:phi0474,foaf:knows,dbr:Mark_Antony
+urn:cts:latinLit:phi0660,foaf:knows,Horace
+urn:cts:latinLit:phi0550,foaf:knows,Lucilia
+urn:cts:latinLit:phi0135,foaf:knows,Scipion Émilien
+urn:cts:latinLit:phi1294,foaf:knows,urn:cite:perseus:author.1209
+urn:cts:latinLit:phi1294,foaf:knows,urn:cite:perseus:author.1318
+urn:cts:latinLit:phi0690,foaf:knows,viaf:100218993
+urn:cts:latinLit:phi0472,foaf:knows,viaf:100219060
+urn:cts:latinLit:phi0893,foaf:knows,viaf:18013086
+unr:cts:latinLit:phi0448,foaf:knows,viaf:18013086
+urn:cts:latinLit:phi0690,foaf:knows,viaf:25977336
+urn:cts:latinLit:phi0472,foaf:knows,viaf:286265178
+urn:cts:latinLit:phi0893,foaf:knows,viaf:36906810
+urn:cts:latinLit:phi0690,foaf:knows,viaf:6224297
+urn:cts:latinLit:phi0472,foaf:knows,viaf:78769600
+urn:cts:latinLit:phi0893,foaf:knows,viaf:8194433
+urn:cts:latinLit:phi1017,foaf:knows,wikidata:Q1413
+urn:cts:latinLit:phi1348,foaf:knows,wikidata:Q168707
+urn:cts:latinLit:phi0660,foaf:knows,wikidata:Q6197
+urn:cts:latinLit:phi0138,foaf:lastName,Terentius
+urn:cts:latinLit:phi0660,foaf:made,Elégies
+urn:cts:latinLit:phi0125,foaf:made,Le soldat fanfaron
+urn:cts:latinLit:phi0550,foaf:made,viaf:176199512
+urn:cts:latinLit:phi0893,foaf:made,viaf:177408390
+urn:cts:latinLit:phi0893,foaf:made,viaf:179441309
+urn:cts:latinLit:phi0893,foaf:made,viaf:184275759
+urn:cts:latinLit:phi0690,foaf:made,viaf:248145424558486830832
+urn:cts:latinLit:phi0660,foaf:made,wikidata:Q3791552
+urn:cts:latinLit:phi1017,foaf:maker,viaf:175560230
+wikidata:Q184742,foaf:maker,wikidata:Q7198
+unr:cts:latinLit:phi0448,foaf:member,viaf:88751090
+urn:cts:latinLit:phi1348,foaf:member,wikidata:Q122166
+unr:cts:latinLit:phi0448,foaf:member,wikidata:Q131306
+urn:cts:latinLit:phi0893,foaf:member,wikidata:Q2277
+pleiades:246247,foaf:name,augusta bilbilis
+geonames:3127047,foaf:name,calatayud
+urn:cts:latinLit:phi0472,foaf:name,Catulle
+urn:ctslatinLit:phi0836,foaf:name,Celse
+unr:cts:latinLit:phi0448,foaf:name,César
+urn:cts:latinLit:phi0550,foaf:name,Lucrèce
+urn:cts:latinLit:phi1294,foaf:name,martial
+urn:cts:latinLit:phi0119,foaf:name,Plaute
+urn:cite:perseus:author.1318,foaf:name,Pline le jeune
+urn:cite:perseus:author.1209,foaf:name,Quintillen
+urn:cts:latinLit:phi1017,foaf:name,Sénèque
+urn:cts:latinLit:phi1348,foaf:name,Suetone
+urn:cts:latinLit:phi1351,foaf:name,Tacite
+urn:cts:latinLit:phi0134,foaf:name,Térence
+urn:cts:latinLit:phi0660,foaf:name,Tibulle
+urn:cts:latinLit:phi0893,foaf:name,viaf:100227522
+urn:cts:latinLit:phi0690,foaf:name,Virgile
+urn:cts:latinLit:phi0660,foaf:name,wikidata:Q7198
+urn:cts:latinLit:phi0474,foaf:nick,Cicéron
+urn:ctslatinLit:phi0836,foaf:nick,le Cicéron de la médecine
+urn:cts:latinLit:phi0660,foaf:Organization,wikidata:Q49757
+wikidata:Q184742,foaf:primaryTopic,wikidata:Q37484
+urn:cts:latinLit:phi0120,foaf:publications,Amphitryon
+urn:ctslatinLit:phi0836,foaf:publications,De Arte medica
+urn:cts:latinLit:phi0142,foaf:publications,L’Heautontimoroumenos
+urn:cts:latinLit:phi0660,foaf:publications,wikidata:Q3782570
+urn:cts:latinLit:phi1017,foaf:status,wikidata:Q4964182
+urn:cts:latinLit:phi0139,foaf:surname,Afer
+urn:cts:latinLit:phi0141,foaf:theme,Théâtre
+urn:ctslatinLit:phi0836,foaf:topic_interest,"agriculture, art militaire, médecine"
+urn:cts:latinLit:phi0550,foaf:topic_interest,épicurisme
+urn:cts:latinLit:phi0660,foaf:topic_interest,poetry
+urn:cts:latinLit:phi0660,foaf:topic_interest,wikidata:Q14373
+wikidata:Q3791552,foaf:topic_interest,wikidata:Q18536349
+urn:cts:latinLit:phi1017,foaf:topic_interest,wikidata:Q48235
+urn:cts:latinLit:phi1348,lived in,pleaides:3169070
+urn:cts:latinLit:phi0474,rdf:type,foaf:person
+urn:cts:latinLit:phi0123,schema:birthDate,-254
+unr:cts:latinLit:phi0448,schema:birthDate,-100
+urn:cts:latinLit:phi1354,schema:birthDate,58
+urn:cts:latinLit:phi1348,schema:birthPlace,pleaides:305090
+urn:cts:latinLit:phi0660,Schema:birthplace,Gabies
+urn:cts:latinLit:phi1356,schema:birthPlace,Gaule Narbonnaise
+urn:cts:latinLit:phi0136,schema:birthPlace,pleiades:314921
+urn:cts:latinLit:phi0119,schema:birthPlace,pleiades:413306
+unr:cts:latinLit:phi0448,schema:birthPlace,pleiades:423025
+urn:ctslatinLit:phi0839,schema:birthPlace,Vérone
+urn:cts:latinLit:phi0474,schema:brithDate,3 janvier 106 av. J.C.
+unr:cts:latinLit:phi0448,schema:colleague,viaf:6224297
+urn:cts:latinLit:phi0119,schema:deathDate,-184
+urn:cts:latinLit:phi1355,schema:deathDate,120
+urn:ctslatinLit:phi0841,schema:deathDate,Ie siècle après JC
+urn:cts:latinLit:phi1357,schema:deathPlace,Empire romain
+unr:cts:latinLit:phi0448,schema:funder,pleiades:445545537
+urn:ctslatinLit:phi0842,schema:hasOccupation,polygraphe
+urn:cts:latinLit:phi1360,schema:homeLocation,pleiades:423025
+urn:cts:latinLit:phi1359,schema:jobTitle,historien
+urn:cts:latinLit:phi0660,schema:nationality,Rome Antique
+urn:cts:latinLit:phi0124,schema:Occupation,auteur comique
+unr:cts:latinLit:phi0448,schema:parent,viaf:67910474
+Suetonius Laetus,schema:parents,urn:cts:latinLit:phi1348
+urn:cts:latinLit:phi1358,schema:spouse,Julia Agricola
+urn:cts:latinLit:phi1348,schema:worksFor,wikidata:Q1427
+urn:cts:latinLit:phi1348,schema:WriteAction,viaf:293152251
