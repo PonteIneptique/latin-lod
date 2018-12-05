@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia="http://dbpedia.org/ontology/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns1="http://"
+   xmlns:ns2="dct:"
+   xmlns:ns3="rdf:"
+   xmlns:ns4="dcterms:"
+   xmlns:ns5="Schema:"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="http://schema.org/"
+>
+  <rdf:Description rdf:about="unr:cts:latinLit:phi0448">
+    <dc:creator rdf:resource="http://viaf.org/viaf/316867971&#10;"/>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/423025&#10;"/>
+    <schema:parent rdf:resource="http://viaf.org/viaf/67910474&#10;"/>
+    <foaf:member rdf:resource="http://www.wikidata.org/wiki/Q131306&#10;"/>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/18013086&#10;"/>
+    <schema:birthDate>-100
+</schema:birthDate>
+    <foaf:name>César
+</foaf:name>
+    <foaf:member rdf:resource="http://viaf.org/viaf/88751090&#10;"/>
+    <schema:colleague rdf:resource="http://viaf.org/viaf/6224297&#10;"/>
+    <schema:funder rdf:resource="http://pleiades.stoa.org/places/445545537&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi1356">
+    <schema:birthPlace>Gaule Narbonnaise
+</schema:birthPlace>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0472">
+    <foaf:knows rdf:resource="http://viaf.org/viaf/78769600&#10;"/>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/286265178&#10;"/>
+    <foaf:based_near rdf:resource="http://www.wikidata.org/wiki/Q373189&#10;"/>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/100219060&#10;"/>
+    <foaf:based_near rdf:resource="http://viaf.org/viaf/152361066&#10;"/>
+    <foaf:name>Catulle
+</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0893">
+    <foaf:made rdf:resource="http://viaf.org/viaf/179441309&#10;"/>
+    <foaf:name rdf:resource="http://viaf.org/viaf/100227522&#10;"/>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/18013086&#10;"/>
+    <foaf:member rdf:resource="http://www.wikidata.org/wiki/Q2277&#10;"/>
+    <foaf:made rdf:resource="http://viaf.org/viaf/177408390&#10;"/>
+    <foaf:birthday rdf:resource="http://www.wikidata.org/wiki/Q17167&#10;"/>
+    <foaf:made rdf:resource="http://viaf.org/viaf/184275759&#10;"/>
+    <foaf:based_near rdf:resource="http://pleiades.stoa.org/places/423025&#10;"/>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/36906810&#10;"/>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/8194433&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0122">
+    <foaf:family_name>Maccius
+</foaf:family_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi1294">
+    <foaf:knows rdf:resource="urn:cite:perseus:author.1318&#10;"/>
+    <foaf:gender rdf:resource="http://www.wikidata.org/wiki/Q6581097&#10;"/>
+    <foaf:knows rdf:resource="urn:cite:perseus:author.1209&#10;"/>
+    <foaf:name>martial
+</foaf:name>
+    <foaf:based_near rdf:resource="http://pleiades.stoa.org/places/246247&#10;"/>
+    <foaf:birthday>38
+</foaf:birthday>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0474">
+    <foaf:familyName>Tullius
+</foaf:familyName>
+    <foaf:firstName>Marcus
+</foaf:firstName>
+    <ns4:creator rdf:resource="http://viaf.org/viaf/186835608&#10;"/>
+    <schema:brithDate>3 janvier 106 av. J.C.
+</schema:brithDate>
+    <dbpedia:deathPlace rdf:resource="http://www.wikidata.org/wiki/Q220&#10;"/>
+    <ns3:type rdf:resource="http://xmlns.com/foaf/0.1/person&#10;"/>
+    <foaf:nick>Cicéron
+</foaf:nick>
+    <foaf:knows rdf:resource="dbr:Mark_Antony&#10;"/>
+    <foaf:knows rdf:resource="dbr:Julius_Caesar&#10;"/>
+    <dbpedia:birthPlace rdf:resource="http://www.wikidata.org/wiki/Q116440&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi1348">
+    <foaf:knows rdf:resource="http://www.wikidata.org/wiki/Q168707&#10;"/>
+    <foaf:birthday rdf:resource="http://www.wikidata.org/wiki/Q2277&#10;"/>
+    <schema:worksFor rdf:resource="http://www.wikidata.org/wiki/Q1427&#10;"/>
+    <ns1:lived_in rdf:resource="pleaides:3169070&#10;"/>
+    <schema:WriteAction rdf:resource="http://viaf.org/viaf/293152251"/>
+    <schema:birthPlace rdf:resource="pleaides:305090&#10;"/>
+    <foaf:name>Suetone
+</foaf:name>
+    <foaf:member rdf:resource="http://www.wikidata.org/wiki/Q122166&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0119">
+    <foaf:based_near rdf:resource="http://pleiades.stoa.org/places/423025&#10;"/>
+    <schema:deathDate>-184
+</schema:deathDate>
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/413306&#10;"/>
+    <foaf:name>Plaute
+</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0123">
+    <schema:birthDate>-254
+</schema:birthDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi1352">
+    <foaf:interest>histoire
+</foaf:interest>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi1357">
+    <schema:deathPlace>Empire romain
+</schema:deathPlace>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ctslatinLit:phi0836">
+    <foaf:name>Celse
+</foaf:name>
+    <foaf:topic_interest>agriculture, art militaire, médecine
+</foaf:topic_interest>
+    <foaf:publications>De Arte medica
+</foaf:publications>
+    <foaf:nick>le Cicéron de la médecine
+</foaf:nick>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pleiades.stoa.org/places/246247">
+    <foaf:based_near rdf:resource="geonames:3127047&#10;"/>
+    <foaf:name>augusta bilbilis
+</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/316014701">
+    <dc:language rdf:resource="http://www.wikidata.org/wiki/Q370&#10;"/>
+    <foaf:birthday rdf:resource="http://www.wikidata.org/wiki/Q17167&#10;"/>
+    <dc:creator rdf:resource="urn:cts:latinLit:phi0472&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0550">
+    <ns2:language rdf:resource="http://www.wikidata.org/wiki/Q370&#10;"/>
+    <foaf:name>Lucrèce
+</foaf:name>
+    <foaf:gender rdf:resource="http://www.wikidata.org/wiki/Q6581097&#10;"/>
+    <foaf:knows>Lucilia
+</foaf:knows>
+    <ns2:isReferencedBy>Ovide
+</ns2:isReferencedBy>
+    <foaf:topic_interest>épicurisme
+</foaf:topic_interest>
+    <foaf:firstName>Titus
+</foaf:firstName>
+    <foaf:made rdf:resource="http://viaf.org/viaf/176199512&#10;"/>
+    <foaf:based_near rdf:resource="http://pleiades.stoa.org/places/423025&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0660">
+    <schema:nationality>Rome Antique
+</schema:nationality>
+    <foaf:topic_interest rdf:resource="http://www.wikidata.org/wiki/Q14373&#10;"/>
+    <foaf:birthday>50 av.JC
+</foaf:birthday>
+    <foaf:knows>Horace
+</foaf:knows>
+    <foaf:name rdf:resource="http://www.wikidata.org/wiki/Q7198&#10;"/>
+    <foaf:made rdf:resource="http://www.wikidata.org/wiki/Q3791552&#10;"/>
+    <foaf:made>Elégies
+</foaf:made>
+    <foaf:based_near rdf:resource="http://pleiades.stoa.org/places/217016&#10;"/>
+    <foaf:Organization rdf:resource="http://www.wikidata.org/wiki/Q49757&#10;"/>
+    <foaf:topic_interest>poetry
+</foaf:topic_interest>
+    <foaf:name>Tibulle
+</foaf:name>
+    <foaf:gender rdf:resource="http://www.wikidata.org/wiki/Q6581097&#10;"/>
+    <foaf:based_near rdf:resource="http://pleiades.stoa.org/places/423025&#10;"/>
+    <foaf:knows rdf:resource="http://www.wikidata.org/wiki/Q6197&#10;"/>
+    <foaf:knows>Auguste
+</foaf:knows>
+    <ns5:birthplace>Gabies
+</ns5:birthplace>
+    <foaf:publications rdf:resource="http://www.wikidata.org/wiki/Q3782570&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0138">
+    <foaf:lastName>Terentius
+</foaf:lastName>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0690">
+    <foaf:age>50
+</foaf:age>
+    <foaf:name>Virgile
+</foaf:name>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/6224297&#10;"/>
+    <foaf:based_near rdf:resource="http://viaf.org/viaf/137842517&#10;"/>
+    <ns2:isReferencedBy rdf:resource="http://viaf.org/viaf/181860567&#10;"/>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/100218993&#10;"/>
+    <ns2:created rdf:resource="http://viaf.org/viaf/183081221&#10;"/>
+    <foaf:made rdf:resource="http://viaf.org/viaf/248145424558486830832&#10;"/>
+    <foaf:knows rdf:resource="http://viaf.org/viaf/25977336&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ctslatinLit:phi0841">
+    <schema:deathDate>Ie siècle après JC
+</schema:deathDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/wiki/Q3791552">
+    <foaf:topic_interest rdf:resource="http://www.wikidata.org/wiki/Q18536349&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0125">
+    <foaf:made>Le soldat fanfaron
+</foaf:made>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi1353">
+    <foaf:gender rdf:resource="http://www.wikidata.org/wiki/Q6581097&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi1294.phi002">
+    <dc:creator rdf:resource="urn:cts:latinLit:phi1294&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ctslatinLit:phi0839">
+    <schema:birthPlace>Vérone
+</schema:birthPlace>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi1017">
+    <foaf:topic_interest rdf:resource="http://www.wikidata.org/wiki/Q48235&#10;"/>
+    <foaf:gender rdf:resource="http://www.wikidata.org/wiki/Q6581097&#10;"/>
+    <foaf:status rdf:resource="http://www.wikidata.org/wiki/Q4964182&#10;"/>
+    <foaf:maker rdf:resource="http://viaf.org/viaf/175560230&#10;"/>
+    <foaf:based_near rdf:resource="http://www.wikidata.org/wiki/Q220&#10;"/>
+    <foaf:birthday rdf:resource="http://www.wikidata.org/wiki/Q25297&#10;"/>
+    <dc:language rdf:resource="http://www.wikidata.org/wiki/Q397&#10;"/>
+    <ns2:provenance rdf:resource="http://www.wikidata.org/wiki/Q2998020&#10;"/>
+    <foaf:knows rdf:resource="http://www.wikidata.org/wiki/Q1413&#10;"/>
+    <foaf:name>Sénèque
+</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/313680866">
+    <dc:creator rdf:resource="urn:cts:latinLit:phi0690&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0121">
+    <foaf:gender rdf:resource="http://www.wikidata.org/wiki/Q6581097&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/wiki/Q184742">
+    <foaf:maker rdf:resource="http://www.wikidata.org/wiki/Q7198&#10;"/>
+    <foaf:primaryTopic rdf:resource="http://www.wikidata.org/wiki/Q37484&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0134">
+    <foaf:based_near rdf:resource="http://pleiades.stoa.org/places/423025&#10;"/>
+    <foaf:name>Térence
+</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0142">
+    <foaf:publications>L’Heautontimoroumenos
+</foaf:publications>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0139">
+    <foaf:surname>Afer
+</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi1360">
+    <schema:homeLocation rdf:resource="http://pleiades.stoa.org/places/423025&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0124">
+    <schema:Occupation>auteur comique
+</schema:Occupation>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0141">
+    <foaf:theme>Théâtre
+</foaf:theme>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cite:perseus:author.1318">
+    <foaf:name>Pline le jeune
+</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi1354">
+    <schema:birthDate>58
+</schema:birthDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi1359">
+    <schema:jobTitle>historien
+</schema:jobTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi1351">
+    <foaf:name>Tacite
+</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ctslatinLit:phi0838">
+    <foaf:birthday>Ie siècle avant JC
+</foaf:birthday>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cite:perseus:author.1209">
+    <foaf:name>Quintillen
+</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi1358">
+    <schema:spouse>Julia Agricola
+</schema:spouse>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://viaf.org/viaf/174707607">
+    <dc:creator rdf:resource="urn:cts:latinLit:phi0472&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0135">
+    <foaf:knows>Scipion Émilien
+</foaf:knows>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi1355">
+    <schema:deathDate>120
+</schema:deathDate>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0120">
+    <foaf:publications>Amphitryon
+</foaf:publications>
+  </rdf:Description>
+  <rdf:Description rdf:about="geonames:3127047">
+    <foaf:name>calatayud
+</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ctslatinLit:phi0842">
+    <schema:hasOccupation>polygraphe
+</schema:hasOccupation>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0140">
+    <foaf:gender rdf:resource="http://www.wikidata.org/wiki/Q6581097&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0136">
+    <schema:birthPlace rdf:resource="http://pleiades.stoa.org/places/314921&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:cts:latinLit:phi0137">
+    <foaf:firstName>Publius
+</foaf:firstName>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ctslatinLit:phi0837">
+    <foaf:gender rdf:resource="http://www.wikidata.org/wiki/Q6581097&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:ctslatinLit:phi0840">
+    <foaf:familyName>Cornelius
+</foaf:familyName>
+  </rdf:Description>
+</rdf:RDF>

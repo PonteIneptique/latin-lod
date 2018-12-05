@@ -1,0 +1,302 @@
+Source	Label	Target
+unr:cts:latinLit:phi0448	schema:birthPlace	http://pleiades.stoa.org/places/423025
+
+urn:cts:latinLit:phi1356	schema:birthPlace	Gaule Narbonnaise
+
+urn:cts:latinLit:phi0472	foaf:based_near	http://www.wikidata.org/wiki/Q373189
+
+urn:cts:latinLit:phi0893	foaf:made	http://viaf.org/viaf/177408390
+
+urn:cts:latinLit:phi0122	foaf:family_name	Maccius
+
+urn:cts:latinLit:phi0893	foaf:birthday	http://www.wikidata.org/wiki/Q17167
+
+urn:cts:latinLit:phi1294	foaf:birthday	38
+
+urn:cts:latinLit:phi0472	foaf:knows	http://viaf.org/viaf/286265178
+
+urn:cts:latinLit:phi0474	foaf:firstName	Marcus
+
+urn:cts:latinLit:phi1348	foaf:birthday	http://www.wikidata.org/wiki/Q2277
+
+urn:cts:latinLit:phi0119	schema:deathDate	-184
+
+urn:cts:latinLit:phi0123	schema:birthDate	-254
+
+liber spectaculorum	dc:creator	urn:cts:latinLit:phi1294
+
+urn:cts:latinLit:phi1352	foaf:interest	histoire
+
+urn:cts:latinLit:phi1357	schema:deathPlace	Empire romain
+
+urn:ctslatinLit:phi0836	foaf:nick	le Cicéron de la médecine
+
+urn:cts:latinLit:phi0893	foaf:knows	http://viaf.org/viaf/18013086
+
+unr:cts:latinLit:phi0448	foaf:name	César
+
+unr:cts:latinLit:phi0448	foaf:member	http://viaf.org/viaf/88751090
+
+http://pleiades.stoa.org/places/246247	foaf:based_near	geonames:3127047
+
+urn:cts:latinLit:phi1294	foaf:based_near	http://pleiades.stoa.org/places/246247
+
+Suetonius Laetus	schema:parents	urn:cts:latinLit:phi1348
+
+urn:cts:latinLit:phi0474	schema:brithDate	3 janvier 106 av. J.C.
+
+http://viaf.org/viaf/316014701	foaf:birthday	http://www.wikidata.org/wiki/Q17167
+
+urn:cts:latinLit:phi0550	foaf:made	http://viaf.org/viaf/176199512
+
+urn:cts:latinLit:phi0660	foaf:based_near	http://pleiades.stoa.org/places/423025
+
+urn:cts:latinLit:phi1294	foaf:gender	http://www.wikidata.org/wiki/Q6581097
+
+unr:cts:latinLit:phi0448	dc:creator	http://viaf.org/viaf/316867971
+
+unr:cts:latinLit:phi0448	schema:colleague	http://viaf.org/viaf/6224297
+
+urn:cts:latinLit:phi0138	foaf:lastName	Terentius
+
+urn:cts:latinLit:phi0893	foaf:made	http://viaf.org/viaf/184275759
+
+urn:cts:latinLit:phi0550	foaf:based_near	http://pleiades.stoa.org/places/423025
+
+urn:cts:latinLit:phi0690	foaf:age	50
+
+urn:cts:latinLit:phi0660	foaf:made	http://www.wikidata.org/wiki/Q3791552
+
+urn:cts:latinLit:phi1294	foaf:knows	urn:cite:perseus:author.1318
+
+urn:ctslatinLit:phi0841	schema:deathDate	Ie siècle après JC
+
+urn:cts:latinLit:phi0660	foaf:topic_interest	poetry
+
+urn:cts:latinLit:phi0690	foaf:knows	http://viaf.org/viaf/100218993
+
+urn:cts:latinLit:phi0660	foaf:gender	http://www.wikidata.org/wiki/Q6581097
+
+urn:cts:latinLit:phi0893	foaf:based_near	http://pleiades.stoa.org/places/423025
+
+http://www.wikidata.org/wiki/Q3791552	foaf:topic_interest	http://www.wikidata.org/wiki/Q18536349
+
+urn:cts:latinLit:phi0125	foaf:made	Le soldat fanfaron
+
+urn:cts:latinLit:phi1353	foaf:gender	http://www.wikidata.org/wiki/Q6581097
+
+urn:cts:latinLit:phi1348	foaf:member	http://www.wikidata.org/wiki/Q122166
+
+urn:ctslatinLit:phi0836	foaf:publications	De Arte medica
+
+urn:cts:latinLit:phi0660	schema:nationality	Rome Antique
+
+urn:cts:latinLit:phi1348	foaf:knows	http://www.wikidata.org/wiki/Q168707
+
+urn:cts:latinLit:phi1294.phi002	dc:creator	urn:cts:latinLit:phi1294
+
+http://pleiades.stoa.org/places/246247	foaf:name	augusta bilbilis
+
+urn:ctslatinLit:phi0839	schema:birthPlace	Vérone
+
+urn:cts:latinLit:phi1348	ns1:lived_in	pleaides:3169070
+
+urn:cts:latinLit:phi0660	foaf:topic_interest	http://www.wikidata.org/wiki/Q14373
+
+urn:cts:latinLit:phi0472	foaf:knows	http://viaf.org/viaf/78769600
+
+urn:cts:latinLit:phi1017	foaf:birthday	http://www.wikidata.org/wiki/Q25297
+
+urn:cts:latinLit:phi0472	foaf:based_near	http://viaf.org/viaf/152361066
+
+urn:cts:latinLit:phi0474	dbpedia:birthPlace	http://www.wikidata.org/wiki/Q116440
+
+urn:cts:latinLit:phi0474	foaf:familyName	Tullius
+
+http://viaf.org/viaf/313680866	dc:creator	urn:cts:latinLit:phi0690
+
+urn:cts:latinLit:phi0660	foaf:made	Elégies
+
+urn:cts:latinLit:phi0550	foaf:gender	http://www.wikidata.org/wiki/Q6581097
+
+urn:cts:latinLit:phi1017	foaf:status	http://www.wikidata.org/wiki/Q4964182
+
+urn:cts:latinLit:phi1348	schema:birthPlace	pleaides:305090
+
+urn:cts:latinLit:phi0550	foaf:firstName	Titus
+
+urn:cts:latinLit:phi0121	foaf:gender	http://www.wikidata.org/wiki/Q6581097
+
+urn:cts:latinLit:phi0119	foaf:name	Plaute
+
+http://www.wikidata.org/wiki/Q184742	foaf:primaryTopic	http://www.wikidata.org/wiki/Q37484
+
+urn:cts:latinLit:phi0134	foaf:name	Térence
+
+unr:cts:latinLit:phi0448	schema:funder	http://pleiades.stoa.org/places/445545537
+
+http://viaf.org/viaf/316014701	dc:language	http://www.wikidata.org/wiki/Q370
+
+urn:cts:latinLit:phi0690	foaf:based_near	http://viaf.org/viaf/137842517
+
+unr:cts:latinLit:phi0448	foaf:knows	http://viaf.org/viaf/18013086
+
+unr:cts:latinLit:phi0448	schema:birthDate	-100
+
+urn:cts:latinLit:phi1348	schema:WriteAction	http://viaf.org/viaf/293152251
+urn:cts:latinLit:phi1017	foaf:name	Sénèque
+
+urn:cts:latinLit:phi0142	foaf:publications	L’Heautontimoroumenos
+
+urn:cts:latinLit:phi0139	foaf:surname	Afer
+
+urn:cts:latinLit:phi0893	foaf:knows	http://viaf.org/viaf/8194433
+
+urn:cts:latinLit:phi1017	foaf:topic_interest	http://www.wikidata.org/wiki/Q48235
+
+urn:cts:latinLit:phi0690	foaf:knows	http://viaf.org/viaf/6224297
+
+urn:cts:latinLit:phi0690	ns2:isReferencedBy	http://viaf.org/viaf/181860567
+
+urn:cts:latinLit:phi1360	schema:homeLocation	http://pleiades.stoa.org/places/423025
+
+urn:cts:latinLit:phi0550	foaf:topic_interest	épicurisme
+
+urn:cts:latinLit:phi0124	schema:Occupation	auteur comique
+
+urn:cts:latinLit:phi0474	dbpedia:deathPlace	http://www.wikidata.org/wiki/Q220
+
+urn:cts:latinLit:phi1017	dc:language	http://www.wikidata.org/wiki/Q397
+
+urn:cts:latinLit:phi1348	foaf:name	Suetone
+
+urn:cts:latinLit:phi0660	foaf:knows	http://www.wikidata.org/wiki/Q6197
+
+urn:cts:latinLit:phi0690	foaf:name	Virgile
+
+urn:cts:latinLit:phi0141	foaf:theme	Théâtre
+
+urn:cite:perseus:author.1318	foaf:name	Pline le jeune
+
+urn:cts:latinLit:phi0134	foaf:based_near	http://pleiades.stoa.org/places/423025
+
+urn:cts:latinLit:phi1354	schema:birthDate	58
+
+urn:cts:latinLit:phi0893	foaf:name	http://viaf.org/viaf/100227522
+
+urn:cts:latinLit:phi0550	foaf:knows	Lucilia
+
+urn:cts:latinLit:phi0660	foaf:birthday	50 av.JC
+
+urn:ctslatinLit:phi0836	foaf:name	Celse
+
+urn:cts:latinLit:phi1359	schema:jobTitle	historien
+
+urn:cts:latinLit:phi0660	foaf:knows	Horace
+
+urn:cts:latinLit:phi1294	foaf:name	martial
+
+urn:cts:latinLit:phi0472	foaf:name	Catulle
+
+urn:ctslatinLit:phi0836	foaf:topic_interest	agriculture, art militaire, médecine
+
+urn:cts:latinLit:phi0660	foaf:based_near	http://pleiades.stoa.org/places/217016
+
+urn:cts:latinLit:phi1351	foaf:name	Tacite
+
+urn:ctslatinLit:phi0838	foaf:birthday	Ie siècle avant JC
+
+urn:cts:latinLit:phi1017	foaf:gender	http://www.wikidata.org/wiki/Q6581097
+
+urn:cite:perseus:author.1209	foaf:name	Quintillen
+
+urn:cts:latinLit:phi1358	schema:spouse	Julia Agricola
+
+urn:cts:latinLit:phi1017	ns2:provenance	http://www.wikidata.org/wiki/Q2998020
+
+urn:cts:latinLit:phi0474	ns3:type	http://xmlns.com/foaf/0.1/person
+
+http://viaf.org/viaf/174707607	dc:creator	urn:cts:latinLit:phi0472
+
+urn:cts:latinLit:phi0660	foaf:name	http://www.wikidata.org/wiki/Q7198
+
+urn:cts:latinLit:phi0119	foaf:based_near	http://pleiades.stoa.org/places/423025
+
+urn:cts:latinLit:phi0135	foaf:knows	Scipion Émilien
+
+urn:cts:latinLit:phi1355	schema:deathDate	120
+
+urn:cts:latinLit:phi0472	foaf:knows	http://viaf.org/viaf/100219060
+
+urn:cts:latinLit:phi0474	foaf:knows	dbr:Mark_Antony
+
+urn:cts:latinLit:phi1294	foaf:knows	urn:cite:perseus:author.1209
+
+urn:cts:latinLit:phi0690	foaf:made	http://viaf.org/viaf/248145424558486830832
+
+urn:cts:latinLit:phi0120	foaf:publications	Amphitryon
+
+urn:cts:latinLit:phi0550	ns2:language	http://www.wikidata.org/wiki/Q370
+
+http://www.wikidata.org/wiki/Q184742	foaf:maker	http://www.wikidata.org/wiki/Q7198
+
+unr:cts:latinLit:phi0448	foaf:member	http://www.wikidata.org/wiki/Q131306
+
+urn:cts:latinLit:phi0893	foaf:member	http://www.wikidata.org/wiki/Q2277
+
+http://viaf.org/viaf/316014701	dc:creator	urn:cts:latinLit:phi0472
+
+geonames:3127047	foaf:name	calatayud
+
+urn:ctslatinLit:phi0842	schema:hasOccupation	polygraphe
+
+urn:cts:latinLit:phi0550	ns2:isReferencedBy	Ovide
+
+urn:cts:latinLit:phi0660	foaf:name	Tibulle
+
+urn:cts:latinLit:phi1017	foaf:knows	http://www.wikidata.org/wiki/Q1413
+
+urn:cts:latinLit:phi0474	foaf:nick	Cicéron
+
+urn:cts:latinLit:phi0893	foaf:knows	http://viaf.org/viaf/36906810
+
+urn:cts:latinLit:phi0140	foaf:gender	http://www.wikidata.org/wiki/Q6581097
+
+urn:cts:latinLit:phi0660	foaf:knows	Auguste
+
+urn:cts:latinLit:phi0474	foaf:knows	dbr:Julius_Caesar
+
+urn:cts:latinLit:phi0690	foaf:knows	http://viaf.org/viaf/25977336
+
+urn:cts:latinLit:phi0136	schema:birthPlace	http://pleiades.stoa.org/places/314921
+
+urn:cts:latinLit:phi0660	foaf:Organization	http://www.wikidata.org/wiki/Q49757
+
+urn:cts:latinLit:phi0660	foaf:publications	http://www.wikidata.org/wiki/Q3782570
+
+urn:cts:latinLit:phi0893	foaf:made	http://viaf.org/viaf/179441309
+
+unr:cts:latinLit:phi0448	schema:parent	http://viaf.org/viaf/67910474
+
+urn:cts:latinLit:phi1348	schema:worksFor	http://www.wikidata.org/wiki/Q1427
+
+urn:cts:latinLit:phi1017	foaf:maker	http://viaf.org/viaf/175560230
+
+urn:cts:latinLit:phi0474	ns4:creator	http://viaf.org/viaf/186835608
+
+urn:cts:latinLit:phi0137	foaf:firstName	Publius
+
+urn:cts:latinLit:phi0690	ns2:created	http://viaf.org/viaf/183081221
+
+urn:cts:latinLit:phi0550	foaf:name	Lucrèce
+
+urn:cts:latinLit:phi0119	schema:birthPlace	http://pleiades.stoa.org/places/413306
+
+urn:cts:latinLit:phi1017	foaf:based_near	http://www.wikidata.org/wiki/Q220
+
+urn:ctslatinLit:phi0837	foaf:gender	http://www.wikidata.org/wiki/Q6581097
+
+urn:cts:latinLit:phi0660	ns5:birthplace	Gabies
+
+urn:ctslatinLit:phi0840	foaf:familyName	Cornelius
+

@@ -31,28 +31,37 @@ graph.bind("pschema", rdflib.Namespace("http://pending.schema.org/"))
 graph.bind("relationship", rdflib.Namespace("http://www.perceive.net/schemas/20021119/relationship/#"))
 graph.bind("dct", rdflib.Namespace("http://purl.org/dc/terms/"))
 
+def get_node(obj, lang=""):
+
+    if "http" in obj or ":" in obj:
+        ret = rdflib.URIRef(simplify_uri(obj))
+    else:
+        lang = lang.replace("\n", "").strip()
+        if lang:
+            ret = rdflib.Literal(obj, lang=lang)
+        else:
+            ret = rdflib.Literal(obj)
+            
+    return ret
+
 for TSVFile in glob.glob(os.path.join(DIR, "*.tsv")):
     with open(TSVFile, 'r') as TSVio:
         for index, line in enumerate(TSVio.readlines()):
-            try:
-                sub, pred, obj, lang = tuple(line.split("\t"))
-                sub = rdflib.URIRef(simplify_uri(sub))
-                if "http" in obj or ":" in obj:
-                    obj = rdflib.URIRef(simplify_uri(obj))
-                else:
-                    lang = lang.replace("\n", "").strip()
-                    if lang:
-                        obj = rdflib.Literal(obj, lang=lang)
-                    else:
-                        obj = rdflib.Literal(obj)
-                if not pred.startswith("http") and ":" not in pred:
-                    pred = "http://"+pred
+            if index > 0:
+                try:
+                    lang = ""
+                    sub, pred, obj, *_ = tuple(line.split("\t"))
+                    sub = get_node(sub)
+                    obj = get_node(obj)
 
-                pred = rdflib.URIRef(simplify_uri(pred))
-                graph.add((sub, pred, obj))
-            except Exception as E:
-                print("Error on line " + str(index))
-                raise E
+                    if not pred.startswith("http") and ":" not in pred:
+                        pred = "http://"+pred.replace(" ", "_")
+
+                    pred = rdflib.URIRef(simplify_uri(pred))
+                    graph.add((sub, pred, obj))
+                except Exception as E:
+                    print("Error on line " + str(index))
+                    raise E
 
 with open(os.path.join(DIR, "..", "lod.turtle"), "w") as output:
     output.write(graph.serialize(format='turtle').decode())
@@ -68,10 +77,10 @@ def normalizeUri(obj):
 
 
 with open(os.path.join(DIR, "..", "lod.tsv"), "w") as output:
-    output.write("Sujet\tPrédicat\tObjet\n")
+    output.write("Source\tLabel\tTarget\n")
     for s, p, o in graph:
         output.write("{}\t{}\t{}\n".format(
-            normalizeUri(s),
+            s,
             normalizeUri(p),
-            normalizeUri(o)
+            o
         ))

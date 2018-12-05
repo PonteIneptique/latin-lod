@@ -1,0 +1,378 @@
+@prefix dbpedia: <http://dbpedia.org/ontology/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.geonames.org/> .
+@prefix ns1: <http://> .
+@prefix ns2: <dct:> .
+@prefix ns3: <rdf:> .
+@prefix ns4: <dcterms:> .
+@prefix ns5: <Schema:> .
+@prefix pleiades: <http://pleiades.stoa.org/places/> .
+@prefix pschema: <http://pending.schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix relationship: <http://www.perceive.net/schemas/20021119/relationship/#> .
+@prefix schema: <http://schema.org/> .
+@prefix viaf: <http://viaf.org/viaf/> .
+@prefix wikidata: <http://www.wikidata.org/wiki/> .
+@prefix wikidataProp: <http://www.wikidata.org/wiki/Property:> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<geonames:3127047> foaf:name """calatayud
+""" .
+
+<http://pleiades.stoa.org/places/246247> foaf:based_near <geonames:3127047
+> ;
+    foaf:name """augusta bilbilis
+""" .
+
+<http://viaf.org/viaf/174707607> dc:creator <urn:cts:latinLit:phi0472
+> .
+
+<http://viaf.org/viaf/313680866> dc:creator <urn:cts:latinLit:phi0690
+> .
+
+<http://viaf.org/viaf/316014701> dc:creator <urn:cts:latinLit:phi0472
+> ;
+    dc:language <http://www.wikidata.org/wiki/Q370
+> ;
+    foaf:birthday <http://www.wikidata.org/wiki/Q17167
+> .
+
+wikidata:Q184742 foaf:maker <http://www.wikidata.org/wiki/Q7198
+> ;
+    foaf:primaryTopic <http://www.wikidata.org/wiki/Q37484
+> .
+
+wikidata:Q3791552 foaf:topic_interest <http://www.wikidata.org/wiki/Q18536349
+> .
+
+<unr:cts:latinLit:phi0448> dc:creator <http://viaf.org/viaf/316867971
+> ;
+    schema:birthDate """-100
+""" ;
+    schema:birthPlace <http://pleiades.stoa.org/places/423025
+> ;
+    schema:colleague <http://viaf.org/viaf/6224297
+> ;
+    schema:funder <http://pleiades.stoa.org/places/445545537
+> ;
+    schema:parent <http://viaf.org/viaf/67910474
+> ;
+    foaf:knows <http://viaf.org/viaf/18013086
+> ;
+    foaf:member <http://viaf.org/viaf/88751090
+>,
+        <http://www.wikidata.org/wiki/Q131306
+> ;
+    foaf:name """César
+""" .
+
+<urn:cite:perseus:author.1209> foaf:name """Quintillen
+""" .
+
+<urn:cite:perseus:author.1318> foaf:name """Pline le jeune
+""" .
+
+<urn:cts:latinLit:phi0119> schema:birthPlace <http://pleiades.stoa.org/places/413306
+> ;
+    schema:deathDate """-184
+""" ;
+    foaf:based_near <http://pleiades.stoa.org/places/423025
+> ;
+    foaf:name """Plaute
+""" .
+
+<urn:cts:latinLit:phi0120> foaf:publications """Amphitryon
+""" .
+
+<urn:cts:latinLit:phi0121> foaf:gender <http://www.wikidata.org/wiki/Q6581097
+> .
+
+<urn:cts:latinLit:phi0122> foaf:family_name """Maccius
+""" .
+
+<urn:cts:latinLit:phi0123> schema:birthDate """-254
+""" .
+
+<urn:cts:latinLit:phi0124> schema:Occupation """auteur comique
+""" .
+
+<urn:cts:latinLit:phi0125> foaf:made """Le soldat fanfaron
+""" .
+
+<urn:cts:latinLit:phi0134> foaf:based_near <http://pleiades.stoa.org/places/423025
+> ;
+    foaf:name """Térence
+""" .
+
+<urn:cts:latinLit:phi0135> foaf:knows """Scipion Émilien
+""" .
+
+<urn:cts:latinLit:phi0136> schema:birthPlace <http://pleiades.stoa.org/places/314921
+> .
+
+<urn:cts:latinLit:phi0137> foaf:firstName """Publius
+""" .
+
+<urn:cts:latinLit:phi0138> foaf:lastName """Terentius
+""" .
+
+<urn:cts:latinLit:phi0139> foaf:surname """Afer
+""" .
+
+<urn:cts:latinLit:phi0140> foaf:gender <http://www.wikidata.org/wiki/Q6581097
+> .
+
+<urn:cts:latinLit:phi0141> foaf:theme """Théâtre
+""" .
+
+<urn:cts:latinLit:phi0142> foaf:publications """L’Heautontimoroumenos
+""" .
+
+<urn:cts:latinLit:phi0472> foaf:based_near <http://viaf.org/viaf/152361066
+>,
+        <http://www.wikidata.org/wiki/Q373189
+> ;
+    foaf:knows <http://viaf.org/viaf/100219060
+>,
+        <http://viaf.org/viaf/286265178
+>,
+        <http://viaf.org/viaf/78769600
+> ;
+    foaf:name """Catulle
+""" .
+
+<urn:cts:latinLit:phi0474> ns4:creator <http://viaf.org/viaf/186835608
+> ;
+    dbpedia:birthPlace <http://www.wikidata.org/wiki/Q116440
+> ;
+    dbpedia:deathPlace <http://www.wikidata.org/wiki/Q220
+> ;
+    schema:brithDate """3 janvier 106 av. J.C.
+""" ;
+    foaf:familyName """Tullius
+""" ;
+    foaf:firstName """Marcus
+""" ;
+    foaf:knows <dbr:Julius_Caesar
+>,
+        <dbr:Mark_Antony
+> ;
+    foaf:nick """Cicéron
+""" ;
+    ns3:type <http://xmlns.com/foaf/0.1/person
+> .
+
+<urn:cts:latinLit:phi0550> ns2:isReferencedBy """Ovide
+""" ;
+    ns2:language <http://www.wikidata.org/wiki/Q370
+> ;
+    foaf:based_near <http://pleiades.stoa.org/places/423025
+> ;
+    foaf:firstName """Titus
+""" ;
+    foaf:gender <http://www.wikidata.org/wiki/Q6581097
+> ;
+    foaf:knows """Lucilia
+""" ;
+    foaf:made <http://viaf.org/viaf/176199512
+> ;
+    foaf:name """Lucrèce
+""" ;
+    foaf:topic_interest """épicurisme
+""" .
+
+<urn:cts:latinLit:phi0660> ns5:birthplace """Gabies
+""" ;
+    schema:nationality """Rome Antique
+""" ;
+    foaf:Organization <http://www.wikidata.org/wiki/Q49757
+> ;
+    foaf:based_near <http://pleiades.stoa.org/places/217016
+>,
+        <http://pleiades.stoa.org/places/423025
+> ;
+    foaf:birthday """50 av.JC
+""" ;
+    foaf:gender <http://www.wikidata.org/wiki/Q6581097
+> ;
+    foaf:knows <http://www.wikidata.org/wiki/Q6197
+>,
+        """Auguste
+""",
+        """Horace
+""" ;
+    foaf:made <http://www.wikidata.org/wiki/Q3791552
+>,
+        """Elégies
+""" ;
+    foaf:name <http://www.wikidata.org/wiki/Q7198
+>,
+        """Tibulle
+""" ;
+    foaf:publications <http://www.wikidata.org/wiki/Q3782570
+> ;
+    foaf:topic_interest <http://www.wikidata.org/wiki/Q14373
+>,
+        """poetry
+""" .
+
+<urn:cts:latinLit:phi0690> ns2:created <http://viaf.org/viaf/183081221
+> ;
+    ns2:isReferencedBy <http://viaf.org/viaf/181860567
+> ;
+    foaf:age """50
+""" ;
+    foaf:based_near <http://viaf.org/viaf/137842517
+> ;
+    foaf:knows <http://viaf.org/viaf/100218993
+>,
+        <http://viaf.org/viaf/25977336
+>,
+        <http://viaf.org/viaf/6224297
+> ;
+    foaf:made <http://viaf.org/viaf/248145424558486830832
+> ;
+    foaf:name """Virgile
+""" .
+
+<urn:cts:latinLit:phi0893> foaf:based_near <http://pleiades.stoa.org/places/423025
+> ;
+    foaf:birthday <http://www.wikidata.org/wiki/Q17167
+> ;
+    foaf:knows <http://viaf.org/viaf/18013086
+>,
+        <http://viaf.org/viaf/36906810
+>,
+        <http://viaf.org/viaf/8194433
+> ;
+    foaf:made <http://viaf.org/viaf/177408390
+>,
+        <http://viaf.org/viaf/179441309
+>,
+        <http://viaf.org/viaf/184275759
+> ;
+    foaf:member <http://www.wikidata.org/wiki/Q2277
+> ;
+    foaf:name <http://viaf.org/viaf/100227522
+> .
+
+<urn:cts:latinLit:phi1017> ns2:provenance <http://www.wikidata.org/wiki/Q2998020
+> ;
+    dc:language <http://www.wikidata.org/wiki/Q397
+> ;
+    foaf:based_near <http://www.wikidata.org/wiki/Q220
+> ;
+    foaf:birthday <http://www.wikidata.org/wiki/Q25297
+> ;
+    foaf:gender <http://www.wikidata.org/wiki/Q6581097
+> ;
+    foaf:knows <http://www.wikidata.org/wiki/Q1413
+> ;
+    foaf:maker <http://viaf.org/viaf/175560230
+> ;
+    foaf:name """Sénèque
+""" ;
+    foaf:status <http://www.wikidata.org/wiki/Q4964182
+> ;
+    foaf:topic_interest <http://www.wikidata.org/wiki/Q48235
+> .
+
+<urn:cts:latinLit:phi1294> foaf:based_near <http://pleiades.stoa.org/places/246247
+> ;
+    foaf:birthday """38
+""" ;
+    foaf:gender <http://www.wikidata.org/wiki/Q6581097
+> ;
+    foaf:knows <urn:cite:perseus:author.1209
+>,
+        <urn:cite:perseus:author.1318
+> ;
+    foaf:name """martial
+""" .
+
+<urn:cts:latinLit:phi1294.phi002> dc:creator <urn:cts:latinLit:phi1294
+> .
+
+<urn:cts:latinLit:phi1348> ns1:lived_in <pleaides:3169070
+> ;
+    schema:WriteAction <http://viaf.org/viaf/293152251> ;
+    schema:birthPlace <pleaides:305090
+> ;
+    schema:worksFor <http://www.wikidata.org/wiki/Q1427
+> ;
+    foaf:birthday <http://www.wikidata.org/wiki/Q2277
+> ;
+    foaf:knows <http://www.wikidata.org/wiki/Q168707
+> ;
+    foaf:member <http://www.wikidata.org/wiki/Q122166
+> ;
+    foaf:name """Suetone
+""" .
+
+<urn:cts:latinLit:phi1351> foaf:name """Tacite
+""" .
+
+<urn:cts:latinLit:phi1352> foaf:interest """histoire
+""" .
+
+<urn:cts:latinLit:phi1353> foaf:gender <http://www.wikidata.org/wiki/Q6581097
+> .
+
+<urn:cts:latinLit:phi1354> schema:birthDate """58
+""" .
+
+<urn:cts:latinLit:phi1355> schema:deathDate """120
+""" .
+
+<urn:cts:latinLit:phi1356> schema:birthPlace """Gaule Narbonnaise
+""" .
+
+<urn:cts:latinLit:phi1357> schema:deathPlace """Empire romain
+""" .
+
+<urn:cts:latinLit:phi1358> schema:spouse """Julia Agricola
+""" .
+
+<urn:cts:latinLit:phi1359> schema:jobTitle """historien
+""" .
+
+<urn:cts:latinLit:phi1360> schema:homeLocation <http://pleiades.stoa.org/places/423025
+> .
+
+<urn:ctslatinLit:phi0836> foaf:name """Celse
+""" ;
+    foaf:nick """le Cicéron de la médecine
+""" ;
+    foaf:publications """De Arte medica
+""" ;
+    foaf:topic_interest """agriculture, art militaire, médecine
+""" .
+
+<urn:ctslatinLit:phi0837> foaf:gender <http://www.wikidata.org/wiki/Q6581097
+> .
+
+<urn:ctslatinLit:phi0838> foaf:birthday """Ie siècle avant JC
+""" .
+
+<urn:ctslatinLit:phi0839> schema:birthPlace """Vérone
+""" .
+
+<urn:ctslatinLit:phi0840> foaf:familyName """Cornelius
+""" .
+
+<urn:ctslatinLit:phi0841> schema:deathDate """Ie siècle après JC
+""" .
+
+<urn:ctslatinLit:phi0842> schema:hasOccupation """polygraphe
+""" .
+
+"Suetonius Laetus" schema:parents <urn:cts:latinLit:phi1348
+> .
+
+"liber spectaculorum" dc:creator <urn:cts:latinLit:phi1294
+> .
+
